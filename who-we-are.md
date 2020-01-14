@@ -44,15 +44,41 @@ sections:
       **Technology Officer**
 
 
-      Greg is a longtime colleague and friend of Casai's who also graduated from
+      Greg is a longtime colleague and friend of Casai’s who also graduated from
       the University of Connecticut. He is a scientific jack of all trades,
       including Analytics, Technical Writing, and Programming. In his spare time
       he enjoys training for half marathons, studying calculus, writing fiction,
       and spending time with his cat. He is a published novelist as well!
+    image: /images/7821ee_9f5419d0e126414081b1548027227b57_mv2.webp
     section_id: humans-gregory
     title: Gregory Wyche
     type: section_content
-  - bg: gray
+  - content: >-
+      Curious Critters by Casai was started in 2016 as a sole proprietorship. We
+      are transitioning to a non-profit organization to better serve the needs
+      of our community.
+
+
+      # Our Mission
+
+
+      Through interactive, hands-on educational programs with live animals, we
+      inspire the public to learn, develop passion, and act as environmental
+      stewards.
+
+
+      # Our Vision
+
+
+      We envision a world in which the public are familiar with the natural
+      world around them and are good stewards, engaging in sustainable
+      practices. We inspire and encourage the next generations of wildlife
+      stewards to learn about nature and the simple actions they can take to
+      help preserve it.
+    section_id: mission-values
+    title: About Us
+    type: section_hero
+  - bg: null
     faqitems:
       - answer: >-
           In every program, we teach the public about their impact on the
@@ -89,21 +115,12 @@ sections:
           and reduce stress for all involved.
         question: Safety
     section_id: statements
-    subtitle: >-
-      Curious Critters by Casai was started in 2016 as a sole proprietorship. We
-      are transitioning to a non-profit organization to better serve the needs
-      of our community. Through interactive, hands-on educational programs with
-      live animals, we inspire the public to learn, develop passion, and act as
-      environmental stewards.   We envision a world in which the public are
-      familiar with the natural world around them and are good stewards,
-      engaging in sustainable practices. We inspire and encourage the next
-      generations of wildlife stewards to learn about nature and the simple
-      actions they can take to help preserve it.
-    title: Our Mission and Values
+    subtitle: ''
+    title: Our Code of Ethics/Values
     type: section_faq
 menus:
   main:
-    title: Features
+    title: About Us
     weight: 2
 layout: landing
 ---
