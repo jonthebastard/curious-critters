@@ -1,19 +1,23 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "url": "https://www.linkedin.com/"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "@CrittersByCasai on Twitter",
+      "url": "https://twitter.com/CrittersByCasai"
+    },
+    {
+      "type": "instagram",
+      "title": "@curiouscritterszoo on Instagram",
+      "url": "https://www.instagram.com/curiouscritterszoo"
+    },
+    {
+      "type": "linkedin",
+      "title": "curiouscritterszoo on Pinterest",
+      "url": "https://www.pinterest.com/curiouscritterszoo"
+    },
+    {
+      "title": "@curiouscrittersbycasai on Facebook",
+      "url": "https://www.facebook.com/curiouscrittersbycasai/"
+    }
+  ]
 }
