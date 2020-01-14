@@ -1,1 +1,9 @@
-{}
+main:
+  - identifier: home
+    title: Home
+    url: /
+    weight: 1
+  - identifier: who-we-are
+    title: About
+    url: who-we-are/
+    weight: 2
