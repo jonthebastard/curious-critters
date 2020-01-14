@@ -1,0 +1,68 @@
+{% assign section = include.section %}
+<section id="{{ section.section_id }}" class="block book-block bg-{{ section.bg }} outer">
+  <div class="block-header inner-small">
+    {% assign title_is_not_empty = section.title | is_not_empty %}
+    {% if title_is_not_empty %}
+    <h2 class="block-title">{{ section.title }}</h2>
+    {% endif %}
+    {% assign subtitle_is_not_empty = section.subtitle | is_not_empty %}
+    {% if subtitle_is_not_empty %}
+    <p class="block-subtitle">
+      {{ section.subtitle }}
+    </p>
+    {% endif %}
+  </div><!-- .block-header -->
+  <div class="block-content inner-medium">
+    {{ section.content | markdownify }}
+    <form name="bookForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="book-form"
+      class="book-form">
+      <p class="screen-reader-text">
+        <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+      </p>
+      <p class="form-row">
+        <label class="form-label">Name</label>
+        <input type="text" name="name" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Email</label>
+        <input type="email" name="email" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Phone</label>
+        <input type="tel" name="phone" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Subject</label>
+        <input type="text" name="subject" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Type of Program Desired</label>
+        <input type="text" name="type" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Preferred Program Date/Time</label>
+        <input type="datetime-local" name="datetime" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Desired Location for Program</label>
+        <input type="text" name="location" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Ages of Participants</label>
+        <input type="text" name="ages" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Coupon Code</label>
+        <input type="text" name="coupon" class="form-input">
+      </p>
+      <p class="form-row">
+        <label class="form-label">Message</label>
+        <textarea name="message" class="form-textarea" rows="7"></textarea>
+      </p>
+      <input type="hidden" name="form-name" value="bookForm" />
+      <p class="form-row form-submit">
+        <button type="submit" class="button">Send Message</button>
+      </p>
+    </form><!-- .book-form -->
+  </div><!-- .block-content -->
+</section><!-- .outer-->
