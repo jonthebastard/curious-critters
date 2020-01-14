@@ -11,8 +11,8 @@ header:
         url: /book
   title: Curious Critters by Casai
 footer:
-  content: '&copy; Curious Critters Zoo'
-  has_nav: true
+  content: '&copy; Curious Critters by Casai'
+  has_nav: false
   has_social: true
   has_subscribe: true
   links:
