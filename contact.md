@@ -1,17 +1,22 @@
 ---
 title: Contact
 sections:
-  - type: section_contact
+  - bg: gray
+    content: 'Telephone:ToGo-2-Learn (864-625-3276) | Email: Location:Olympia, WA'
     section_id: contact
-    title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
-    bg: gray
+    subtitle: >-
+      To reserve your program, or for any general information, please fill out
+      the form below. We will reply as soon as possible to confirm availability
+      and discuss fees.
+    title: Reach Out To Us!
+    type: section_contact
 menus:
-  secondary:
+  main:
     title: Contact
-    weight: 3
+    weight: 5
+  secondary:
+    title: ''
+    weight: ''
 layout: landing
 ---
+
