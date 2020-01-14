@@ -9,6 +9,7 @@
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet">
         <link rel="stylesheet" href="{{ 'assets/css/main.css' | relative_url }}">
           {{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
+          {{ page.calendar_bootstrap_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
     </head>
     <body>
         
