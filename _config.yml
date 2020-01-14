@@ -1,4 +1,4 @@
-title: Stackbit Azimuth Theme
+title: Curious Critters by Casai
 baseurl: /
 permalink: '/:title/'
 palette: purple
@@ -7,8 +7,8 @@ header:
   logo_img: ''
   menu:
     actions:
-      - label: Sign Up
-        url: /signup
+      - label: Book Now!
+        url: /book
   title: Curious Critters by Casai
 footer:
   content: '&copy; Curious Critters Zoo'
@@ -22,7 +22,7 @@ footer:
   logo_img: ''
   nav_title: Company
   social_title: Community
-  subscribe_content: Stay up to date with our latest developments.
+  subscribe_content: Stay up to date with our news and goings-on!
   subscribe_title: Subscribe
   tagline: ''
 sass:
