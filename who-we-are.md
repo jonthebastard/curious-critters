@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: About
 sections:
   - section_id: who-title
     title: Who We Are
@@ -120,7 +120,7 @@ sections:
     type: section_faq
 menus:
   main:
-    title: About Us
+    title: About
     weight: 2
 layout: landing
 ---
