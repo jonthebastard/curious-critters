@@ -25,7 +25,7 @@ sections:
 menus:
   main:
     title: Programs
-    weight: 6
+    weight: 3
   secondary:
     title: ''
 layout: landing
