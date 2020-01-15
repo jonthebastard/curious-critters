@@ -1,7 +1,24 @@
 ---
 title: Programs
 sections:
-  - content: >-
+  - actions:
+      - label: Birthdays
+        url: pages/birthdays
+      - label: Events
+        url: pages/events
+      - label: Classrooms
+        url: pages/classrooms
+      - label: Scout Programs
+        url: pages/scout-programs
+      - label: Groups
+        url: pages/groups
+      - label: Photo Shoots
+        url: pages/photo-shoots
+      - label: Field Trips
+        url: pages/field-trips
+      - label: Program Fees
+        url: pages/program-fees
+    content: >-
       Up to 35 participants can enjoy an interactive 1 hour presentation of fun
       facts where they all have the opportunity to touch at least 4 of our
       exotic animals!
@@ -18,10 +35,6 @@ sections:
     section_id: programs-top
     title: Educational Programs
     type: section_hero
-  - bg: null
-    section_id: event-examples
-    title: Example Events/Locations
-    type: section_posts
 layout: landing
 ---
 
