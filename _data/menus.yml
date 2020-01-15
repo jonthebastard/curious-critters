@@ -15,7 +15,3 @@ main:
     title: Calendar
     url: content/calendar
     weight: 4
-  - identifier: main-contact
-    title: Contact
-    url: content/contact
-    weight: 5

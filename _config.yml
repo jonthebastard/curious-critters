@@ -7,8 +7,8 @@ header:
   logo_img: ''
   menu:
     actions:
-      - label: Book Now!
-        url: /book
+      - label: Contact Us
+        url: /content/contact
   title: Curious Critters by Casai
 footer:
   content: '&copy; Curious Critters by Casai'
