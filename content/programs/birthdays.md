@@ -51,7 +51,7 @@ sections:
       - label: Reserve your program now!
         url: contact
       - label: See more of our programs!
-        url: programs
+        url: content/programs
     type: section_program
 layout: landing
 ---

@@ -24,6 +24,9 @@ sections:
       * Libraries
 
 
+      ![](/images/programs/programs-groups-02.jpg)
+
+
       This is similar to a therapy dog program, but with many kinds of animals!
       We will bring 3 of our friendly animals to your community, where we will
       have an engaging discussion with the members and give everyone a chance to
@@ -35,8 +38,10 @@ sections:
       themselves than they thought possible! ​
 
 
-      Community Senior Center activities: Senior Citizens enjoying a pet therapy
-      program Your community members who used to have a cat, rabbit, reptile, or
+      ![](/images/programs/programs-groups-03.jpg)
+
+
+      Your community members who used to have a cat, rabbit, reptile, or
       other exotic pet will readily bond with our animals. Ones who haven't
       bonded with pets before will have the opportunity to learn to empathize
       with another species. The educator can give information and lend an
@@ -48,9 +53,12 @@ sections:
       stories.  
 
 
+      ![](/images/programs/programs-groups-04.jpg)
+
+
       Program designed for up to 30 participants for 1 hour. Program fees range
       from 100-300, depending on distance and content. We give discounts for
-      multiple or recurring programs! [Inquire about exact fees here](contact)!
+      multiple or recurring programs! [Inquire about exact fees here](/content/contact)!
     image: ''
     title: Groups
     type: section_content
@@ -58,7 +66,7 @@ sections:
       - label: Reserve your program now!
         url: contact
       - label: See more of our programs!
-        url: programs
+        url: content/programs
     type: section_program
 layout: landing
 ---

@@ -17,7 +17,7 @@ sections:
 
 
 
-      Event and Photo Shoot fees vary.<br>Please [contact us](contact) to discuss desired content and precise fees.
+      Event and Photo Shoot fees vary.<br>Please [contact us](/content/contact) to discuss desired content and precise fees.
     image: ''
     title: Program Fees
     type: section_content
@@ -25,7 +25,7 @@ sections:
       - label: Contact us for more info!
         url: contact
       - label: See more of our programs!
-        url: programs
+        url: content/programs
     type: section_program
 layout: landing
 ---

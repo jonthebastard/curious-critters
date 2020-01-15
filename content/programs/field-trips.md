@@ -19,7 +19,7 @@ sections:
       things they can find, recording their data. 
 
 
-      [Tell us](contact) what grade level and Life Science or Earth Science
+      [Tell us](/content/contact) what grade level and Life Science or Earth Science
       topics or standards you'd like us to concentrate on, and we can tailor the
       content to your group! Program designed for a class of up to 35 students
       for 2 hours, all for [a low fee](/content/programs/program-fees)!
@@ -30,7 +30,7 @@ sections:
       - label: Reserve your program now!
         url: contact
       - label: See more of our programs!
-        url: programs
+        url: content/programs
     type: section_program
 layout: landing
 ---

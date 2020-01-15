@@ -3,7 +3,7 @@ title: Events
 sections:
   - bg: gray
     content: >-
-      ![](/images/programs/programs-birthdays-01.jpg)
+      ![](/images/programs/programs-events-01.jpg)
 
 
       We are available for many different kinds of events, including:
@@ -36,7 +36,7 @@ sections:
       themselves posing with an animal! 
 
 
-      [Contact us](contact) for details and pricing for your special event.
+      [Contact us](/content/contact) for details and pricing for your special event.
     image: ''
     title: Events
     type: section_content
@@ -44,7 +44,7 @@ sections:
       - label: Reserve your program now!
         url: contact
       - label: See more of our programs!
-        url: programs
+        url: content/programs
     type: section_program
 layout: landing
 ---

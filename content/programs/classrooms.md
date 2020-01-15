@@ -58,29 +58,21 @@ sections:
       Standards this program helps students achieve:
 
 
-      NGSS K-LS1-1\
-
-      K-ESS2-2\
-
-      K-ESS3-1\
-
-      K-ESS3-3
+      NGSS K-LS1-1
+      <br>K-ESS2-2
+      <br>K-ESS3-1
+      <br>K-ESS3-3
 
 
-      CCSS.ELA-LITERACY.SL.K.1\
-
-      SL.K.2\
-
-      SL.K.3\
-
-      SL.K.5\
-
-      SL.K.6
+      CCSS.ELA-LITERACY.SL.K.1
+      <br>SL.K.2
+      <br>SL.K.3
+      <br>SL.K.5
+      <br>SL.K.6
 
 
-      CCSS.MATH.CONTENT.K.MD.A.1\
-
-      K.MD.A.2
+      CCSS.MATH.CONTENT.K.MD.A.1
+      <br>K.MD.A.2
 
 
       ### 1st grade: Survival
@@ -103,28 +95,22 @@ sections:
       Standards this program helps students achieve:
 
 
-      NGSS 1-LS1-1\
-
-      1-LS1-2\
-
-      1-LS3-1
+      NGSS 1-LS1-1
+      <br>1-LS1-2
+      <br>1-LS3-1
 
 
-      CCSS.ELA-LITERACY.SL.1.1\
-
-      SL.1.2\
-
-      SL.1.3\
-
-      SL.1.5
+      CCSS.ELA-LITERACY.SL.1.1
+      <br>SL.1.2
+      <br>SL.1.3
+      <br>SL.1.5
 
 
       W.1.8
 
 
-      CCSS.MATH.CONTENT.1.MD.C.4\
-
-      1.G.A.1
+      CCSS.MATH.CONTENT.1.MD.C.4
+      <br>1.G.A.1
 
 
       Programs are designed for a class of up to 35 students for 1 hour, all for
@@ -136,7 +122,7 @@ sections:
       - label: Reserve your program now!
         url: contact
       - label: See more of our programs!
-        url: programs
+        url: content/programs
     type: section_program
 layout: landing
 ---

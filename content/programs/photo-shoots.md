@@ -3,7 +3,7 @@ title: Photo Shoots
 sections:
   - bg: gray
     content: >-
-      ![](/images/programs/programs-photo-01.jpg)
+      ![](/images/programs/programs-photo-02.jpg)
 
 
       Do you want a unique photo booth for your event? Are you a photographer?
@@ -29,10 +29,10 @@ sections:
       specific behavior or posing/moving in a certain way. Some of our animals
       are trained, so for example, if you want a bunny to hop across the screen
       and jump in a basket, we can probably make that happen, so [just ask
-      us!](contact) 
+      us!](/content/contact) 
 
 
-      ​[Contact us](contact) to discuss animal options, details, and
+      ​[Contact us](/content/contact) to discuss animal options, details, and
       [pricing](/content/programs/program-fees).
     image: ''
     title: Photo Shoots
