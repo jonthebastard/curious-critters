@@ -6,44 +6,52 @@ sections:
       ![](/images/programs/programs-scout-01.jpg)
 
 
-      Does your little one have a birthday coming up? We can help make it the
-      most memorable birthday yet! We will bring 4 or more of our amazing
-      animals to your house or party location, where we will tell the attendees
-      about the animals and give everyone a chance to touch each one. Children
-      will delight in watching an animal roam around the room! While being
-      entertained by the antics of the animals, they may even learn some fun
-      facts about topics such as pet care, animal training, parental care, local
-      wildlife, and the environment we share. You can choose which topic you
-      want them to learn about most.
+      We can do a program for your scout troop that fulfills multiple badge
+      requirements!
 
 
-
-      Through the interactive presentation, the
-      kids will have a blast acting like animals, and you'll learn more than
-      you thought you could at a birthday party! The birthday child will even
-      get to have their picture taken while holding an exotic animal\*, and will
-      get a special gift!  Presentation is for one hour, up to 30 participants.
-      Additional adults are welcome to attend and watch. Can be held indoors or
-      outdoors in warm weather. We always bring a variety of at least four
-      animals, but we can bring an extra mystery animal for $50!
+      ### The Boy Scout badges we can teach about and help fulfill include: 
 
 
+      * Animal Science
 
-      \* Presenter will allow the birthday child to hold an animal at their sole
-      discretion, depending on the situation at hand, to ensure the safety of
-      the animal and child. If presenter decides that allowing the child to hold
-      the animal is risky, the presenter will hold or position the animal next
-      to the child for the photo. The camera and photographer are to be provided
-      by the guardians of the child. All photos posted on social media by the
-      participants must be attributed to "Curious Critters by Casai" or hash
-      tagged as #curiouscrittersbycasai. 
+      * Bird Study
+
+      * Environmental Science
+
+      * Entrepreneurship
+
+      * Fish and Wildlife Management
+
+      * Insect Study
+
+      * Mammal Study
+
+      * Nature
+
+      * Pets
+
+      * Reptile and Amphibian Study
 
 
+      ### The Girl Scout Badges we can teach about and help fulfill include: 
 
-      Birthday Party Presentation is designed for a group of up to 30
-      participants for 1 hour, [all for a low fee](/content/programs/program-fees)!
+
+      * Animal Habitats
+
+      * Animal Helpers
+
+      * Bugs
+
+      * Pets
+
+      * Voice for Animals
+
+
+      Programs designed for a group of up to 35 scouts for 1-2 hours, all for [a
+      low fee](/content/programs/program-fees)!
     image: ''
-    title: Birthdays
+    title: Scout Programs
     type: section_content
   - actions:
       - label: Reserve your program now!
