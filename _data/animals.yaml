@@ -1,0 +1,118 @@
+---
+animals:
+- name: Coraline
+  bio: |
+    Coraline is a 5 lb. mixed breed domestic rabbit. We adopted her at about 4 years of age in 2012.
+    She had a history of chronic upper respiratory and ear infections. Her previous owners didn't
+    treat her infections, and allowed them to get so bad that her right facial nerve was damaged.
+    This means that her right ear, lips, and cheek are now paralyzed, and her cheek muscles are
+    contracted, giving her a cute smirk. This doesn't seem to bother her at all, and she does all her
+    normal bunny behaviors. The only differences are that she makes cute slurping noises when she
+    drinks, she snores when she sleeps, and she listens to you with one ear forward! After we got
+    her, she got infection after infection, which we treated, but couldn’t find the underlying
+    cause. Eventually the vet figured out that she had a diseased tooth hidden in her molars, which
+    could be harboring bacteria! After three surgeries, he was able to remove the tooth and the
+    source of the infections. Now that she is healthy, she is so much happier! Her favorite
+    activities are zooming around, chasing cats, eating, throwing her heavy dish around when it's
+    empty, nibbling things that are in her way, and dancing for treats!
+  species: Domestic Rabbit
+  thumb: /images/animals/00-domesticrabbit.jpg
+  images:
+  - /images/animals/coraline-01.jpg
+  - /images/animals/coraline-02.jpg
+  - /images/animals/coraline-03.jpg
+  - /images/animals/coraline-04.jpg
+- name: Alejandro
+  bio: |
+    Alejandro is a Flemish Giant Rabbit mix, weighing in at a healthy 9.5 lbs, which is smaller than
+    a pure bred Flemish giant! He had been found running around loose a little while after Easter. It
+    is a common practice for people to get a baby bunny for Easter for their children. When that bunny
+    outgrows the cage or hutch, or the child gets bored of it and stops taking care of it, the parents
+    “free” the bunny at a nearby park. There it is likely to get hit by a car, eaten by a hawk, or
+    attacked by a dog! We adopted him at about 1 year of age in 2016. He loves to binky (jump for joy,
+    or frolic), explore, chew on things, and get petted. He adores Coraline, and shows it by snuggling
+    and grooming her whenever she allows it. He is doing agility training and loves to jump through a
+    hoop for treats!
+  species: Flemish Giant Rabbit
+  thumb: /images/animals/00-flemishgiantrabbit.jpg
+  images:
+  - /images/animals/alejandro-01.jpg
+  - /images/animals/alejandro-02.jpg
+- name: Dottie
+  bio: |
+    Dottie is a docile Dumeril's Boa, who is full-size at 7 feet long! She is a non-venomous
+    constrictor. We were generously given her in 2014 from another zoo where she was no longer
+    needed. They adopted her from someone who didn't know how old she was. However, when we got her,
+    she was full-grown and was a successful breeder, so she had to be at least five years old, and
+    is probably much older! Dottie likes to bask under her heat lamp, hide in her box, and eat rats.
+    When out for "walks", this older sit-and-wait predator likes to find new hiding spots.
+  species: Dumeril's Boa
+  thumb: /images/animals/00-dumerilsboa.jpg
+  images:
+  - /images/animals/dottie-01.jpg
+  - /images/animals/dottie-02.jpg
+  - /images/animals/dottie-03.jpg
+  - /images/animals/dottie-04.jpg
+- name: Squirmy McCoil
+  bio: |
+    Squirmy McCoil is a Rubber Boa who was born in captivity in 2015, and his species is from here
+    in Washington! He is non-venomous, yet not a constrictor. He was donated to us as a baby by a
+    generous breeder, when he was the size of an earthworm! Since then he has grown to 1.5 feet,
+    and is likely full-size. He likes to burrow in soil, hide in his log, and eat mice. When he is
+    being held, he likes to find a warm dark place to hang out, like up a sleeve!
+  species: Rubber Boa
+  thumb: /images/animals/00-rubberboa.jpg
+  images:
+  - /images/animals/squirmy-01.jpg
+  - /images/animals/squirmy-02.jpg
+- name: Trogdor
+  bio: |
+    Trogdor is a Green Iguana, born in 2010, and already full size at 6 feet long, including his
+    tail! He's a very handsome male with large sub-tympanic shields, and a lot of spikes along
+    his back. His first owner didn't give him the proper UVA and UVB lights, which led to him
+    developing metabolic bone disease, a common issue in pet iguanas. After being painstakingly
+    rehabilitated and regaining his health, he grew like a weed! You may notice that his jaw is
+    misaligned as a result of the MBD. This is not much of a problem, except that while sleeping
+    his mouth falls open so that the tip of his tongue hangs out! He loves to get misted, get
+    scratches from his human caretakers, and eat a nice salad. When the weather is warm he also
+    loves to go outside for walks and to soak up the sun!
+  species: Green Iguana
+  thumb: /images/animals/00-greeniguana.jpg
+  images:
+  - /images/animals/trogdor-01.jpg
+  - /images/animals/trogdor-02.jpg
+- name: ''
+  bio: ''
+  species: Domestic Rat
+  /images/animals/thumb: 00domesticrat.jpg
+  images: []
+- name: ''
+  bio: ''
+  species: Madagascar Hissing Cockroach
+  /images/animals/thumb: 00madagascarhissingcockroach.jpg
+  images: []
+- name: ''
+  bio: ''
+  species: Nigerian Dwarf Goat
+  /images/animals/thumb: 00nigeriandwarfgoat.jpg
+  images: []
+- name: ''
+  bio: ''
+  species: Sulcatator Toise
+  /images/animals/thumb: 00sulcatatortoise.jpg
+  images: []
+- name: ''
+  bio: ''
+  species: Tiger Salamander
+  /images/animals/thumb: 00tigersalamander.jpg
+  images: []
+- name: ''
+  bio: ''
+  species: Turkey
+  /images/animals/thumb: 00turkey.jpg
+  images: []
+- name: ''
+  bio: ''
+  species: Waxy Monkey Frog
+  /images/animals/thumb: 00waxymonkeyfrog.jpg
+  images: []

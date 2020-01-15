@@ -5,11 +5,11 @@ sections:
     content: >-
       
     section_id: contact-page
-    title: Upcoming Events
+    title: Our Animals
     type: section_content
 menus:
   secondary:
     title: Animals
     weight: 2
-layout: landing
+layout: lightbox
 ---
