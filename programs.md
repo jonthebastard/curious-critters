@@ -31,7 +31,7 @@ sections:
 
       If you have an event, fair, or conference, we can set up a booth with live
       animals on display!
-    image: /images/7821ee_99011a1811664c14b750d64931a5cdc9_mv2_d_2327_3102_s_2.webp
+    image: /images/programs/programs-home-01.jpg
     section_id: programs-top
     title: Educational Programs
     type: section_hero
