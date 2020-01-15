@@ -6,44 +6,53 @@ sections:
       ![](/images/programs/programs-groups-01.jpg)
 
 
-      Does your little one have a birthday coming up? We can help make it the
-      most memorable birthday yet! We will bring 4 or more of our amazing
-      animals to your house or party location, where we will tell the attendees
-      about the animals and give everyone a chance to touch each one. Children
-      will delight in watching an animal roam around the room! While being
-      entertained by the antics of the animals, they may even learn some fun
-      facts about topics such as pet care, animal training, parental care, local
-      wildlife, and the environment we share. You can choose which topic you
-      want them to learn about most.
+      We specialize in community- and group-centered events, in areas such as:
 
 
+      * Group Homes
 
-      Through the interactive presentation, the
-      kids will have a blast acting like animals, and you'll learn more than
-      you thought you could at a birthday party! The birthday child will even
-      get to have their picture taken while holding an exotic animal\*, and will
-      get a special gift!  Presentation is for one hour, up to 30 participants.
-      Additional adults are welcome to attend and watch. Can be held indoors or
-      outdoors in warm weather. We always bring a variety of at least four
-      animals, but we can bring an extra mystery animal for $50!
+      * Community Centers
 
+      * Senior Centers 
 
+      * Nursing Homes
 
-      \* Presenter will allow the birthday child to hold an animal at their sole
-      discretion, depending on the situation at hand, to ensure the safety of
-      the animal and child. If presenter decides that allowing the child to hold
-      the animal is risky, the presenter will hold or position the animal next
-      to the child for the photo. The camera and photographer are to be provided
-      by the guardians of the child. All photos posted on social media by the
-      participants must be attributed to "Curious Critters by Casai" or hash
-      tagged as #curiouscrittersbycasai. 
+      * Assisted Living Communities
+
+      * Correctional Facilities
+
+      * Libraries
 
 
+      This is similar to a therapy dog program, but with many kinds of animals!
+      We will bring 3 of our friendly animals to your community, where we will
+      have an engaging discussion with the members and give everyone a chance to
+      pet and bond with each animal. While being entertained by the antics of
+      the critters, they can learn about different topics such as pet care,
+      animal training, parental care, trauma, emotional intelligence, local
+      wildlife, and environmental impact. You can choose the topics that are
+      most relevant to your group. The animals will teach them more about
+      themselves than they thought possible! ​
 
-      Birthday Party Presentation is designed for a group of up to 30
-      participants for 1 hour, [all for a low fee](/content/programs/program-fees)!
+
+      Community Senior Center activities: Senior Citizens enjoying a pet therapy
+      program Your community members who used to have a cat, rabbit, reptile, or
+      other exotic pet will readily bond with our animals. Ones who haven't
+      bonded with pets before will have the opportunity to learn to empathize
+      with another species. The educator can give information and lend an
+      empathetic ear, but is not a licensed therapist. Our animal friends do the
+      therapy and healing just by being themselves and interacting with people!
+      These are great programs to do regularly, such as once/week, with troubled
+      youth or the elderly. This allows members to develop relationships with
+      the animals, get more comfortable with them, and share their own
+      stories.  
+
+
+      Program designed for up to 30 participants for 1 hour. Program fees range
+      from 100-300, depending on distance and content. We give discounts for
+      multiple or recurring programs! [Inquire about exact fees here](contact)!
     image: ''
-    title: Birthdays
+    title: Groups
     type: section_content
   - actions:
       - label: Reserve your program now!
