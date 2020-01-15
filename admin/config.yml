@@ -862,9 +862,9 @@ collections:
         label: Content
         required: false
         hint: Page content
-    filter:
-      field: layout
-      value: page
+    #filter:
+    #  field: layout
+    #  value: page
   - name: post
     label: Animals
     folder: _posts
