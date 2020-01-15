@@ -7,12 +7,5 @@ sections:
     section_id: contact-page
     title: Upcoming Events
     type: section_content
-menus:
-  main:
-    title: Calendar
-    weight: 4
-  secondary:
-    title: ''
-    weight: ''
 layout: landing
 ---

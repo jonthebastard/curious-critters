@@ -10,13 +10,6 @@ sections:
       and discuss fees.
     title: Reach Out To Us
     type: section_contact
-menus:
-  main:
-    title: Contact
-    weight: 5
-  secondary:
-    title: ''
-    weight: ''
 layout: landing
 ---
 

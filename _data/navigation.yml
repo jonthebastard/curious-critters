@@ -1,0 +1,31 @@
+- title: Home
+  url: /
+- title: About
+  sublinks:
+    - title: Who We Are
+      url: /who-we-are
+    - title: The Animals
+      url: /animals
+- title: Programs
+  url: /programs
+  sublinks:
+    - title: Birthdays
+      url: _posts/birthdays
+    - title: Events
+      url: _posts/events
+    - title: Classrooms
+      url: _posts/classrooms
+    - title: Scout Programs
+      url: _posts/scout-programs
+    - title: Groups
+      url: _posts/groups
+    - title: Photo Shoots
+      url: _posts/photo-shoots
+    - title: Field Trips
+      url: _posts/field-trips
+    - title: Program Fees
+      url: _posts/program-fees
+- title: Calendar
+  url: /calendar
+- title: Contact
+  url: /contact

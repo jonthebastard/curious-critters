@@ -49,10 +49,6 @@ sections:
     subtitle: Book them for your next class or event!
     title: Still Curious about the Critters?
     type: section_cta
-menus:
-  main:
-    title: Home
-    weight: 1
 layout: landing
 ---
 

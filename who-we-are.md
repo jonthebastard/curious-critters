@@ -118,10 +118,6 @@ sections:
     subtitle: ''
     title: Our Code of Ethics/Values
     type: section_faq
-menus:
-  main:
-    title: About
-    weight: 2
 layout: landing
 ---
 

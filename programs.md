@@ -22,12 +22,6 @@ sections:
     section_id: event-examples
     title: Example Events/Locations
     type: section_posts
-menus:
-  main:
-    title: Programs
-    weight: 3
-  secondary:
-    title: ''
 layout: landing
 ---
 
