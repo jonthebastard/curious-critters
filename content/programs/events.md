@@ -38,7 +38,7 @@ sections:
 
       [Contact us](contact) for details and pricing for your special event.
     image: ''
-    title: Birthdays
+    title: Events
     type: section_content
   - actions:
       - label: Reserve your program now!
