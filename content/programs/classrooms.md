@@ -3,7 +3,7 @@ title: Classrooms
 sections:
   - bg: gray
     content: >-
-      ![](/images/programs/programs-classrooms-01.jpg)
+      ![](/images/programs/programs-classroom-01.jpg)
 
 
       We will bring exotic, safe animals to your school for the kids to touch!
@@ -32,6 +32,9 @@ sections:
       would like their class to work on. The students will practice skills in
       Language Arts and Mathematics, as well as Science and Engineering, in
       order to master several Disciplinary Core Ideas. 
+
+
+      ![](/images/programs/programs-classroom-02.jpg)
 
 
       ## Here are some examples of programs we do:
