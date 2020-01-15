@@ -851,9 +851,9 @@ collections:
                   Name of the Stackbit object model, used by fields of type
                   reference
                 default: section_content
-          - name: section_cta
+          - name: section_program
             widget: object
-            label: Call to Action Section
+            label: Program Buttons Section
             fields:
               - widget: string
                 name: section_id
