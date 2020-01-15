@@ -11,5 +11,5 @@ menus:
   secondary:
     title: Animals
     weight: 2
-layout: lightbox
+layout: landing
 ---
