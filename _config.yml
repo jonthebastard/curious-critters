@@ -3,7 +3,7 @@ baseurl: /
 permalink: '/:title/'
 palette: purple
 header:
-  has_nav: true
+  has_nav: false
   logo_img: ''
   menu:
     actions:
