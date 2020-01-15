@@ -3,7 +3,7 @@ title: Birthdays
 sections:
   - bg: gray
     content: >-
-      ![](/images/animals-thumbs.jpg)
+      ![](/images/programs/programs-birthdays-01.jpg)
 
 
       Does your little one have a birthday coming up? We can help make it the
@@ -14,19 +14,24 @@ sections:
       entertained by the antics of the animals, they may even learn some fun
       facts about topics such as pet care, animal training, parental care, local
       wildlife, and the environment we share. You can choose which topic you
-      want them to learn about most. Through the interactive presentation, the
+      want them to learn about most.
+
+
+      ![](/images/programs/programs-birthdays-02.jpg)
+
+
+      Through the interactive presentation, the
       kids will have a blast acting like animals, and you'll learn more than
-
-
       you thought you could at a birthday party! The birthday child will even
-      get to have their picture taken while holding an exotic animal*, and will
+      get to have their picture taken while holding an exotic animal\*, and will
       get a special gift!  Presentation is for one hour, up to 30 participants.
       Additional adults are welcome to attend and watch. Can be held indoors or
       outdoors in warm weather. We always bring a variety of at least four
       animals, but we can bring an extra mystery animal for $50!
 
 
-      * Presenter will allow the birthday child to hold an animal at their sole
+
+      \* Presenter will allow the birthday child to hold an animal at their sole
       discretion, depending on the situation at hand, to ensure the safety of
       the animal and child. If presenter decides that allowing the child to hold
       the animal is risky, the presenter will hold or position the animal next
@@ -36,8 +41,9 @@ sections:
       tagged as #curiouscrittersbycasai. 
 
 
+
       Birthday Party Presentation is designed for a group of up to 30
-      participants for 1 hour, all for a low fee!
+      participants for 1 hour, [all for a low fee](/content/programs/program-fees)!
     image: ''
     title: Birthdays
     type: section_content
@@ -46,7 +52,7 @@ sections:
         url: contact
       - label: See more of our programs!
         url: programs
-    type: section_cta
+    type: section_program
 layout: landing
 ---
 

@@ -158,6 +158,14 @@
       text-align: left;
     }
 
+    .cell-center {
+      box-sizing: border-box;
+      margin-left: 0.83333rem;
+      margin-right: 0.83333rem;
+      align-items: center;
+      width: 100%;
+    }
+
     .block-content {
       -webkit-flex: 1 1 auto;
       -ms-flex: 1 1 auto;
@@ -168,7 +176,6 @@
       -webkit-flex: 0 0 auto;
       -ms-flex: 0 0 auto;
       flex: 0 0 auto;
-      padding-left: 68px;
     }
   }
 }
