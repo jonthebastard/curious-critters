@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - bg: null
-    content: 'Telephone:ToGo-2-Learn (864-625-3276) | Email: Location:Olympia, WA'
+    content: 'Telephone: ToGo-2-Learn (864-625-3276) | Email: curiouscritters@gmail.com | Location: Olympia, WA'
     section_id: contact-page
     subtitle: >-
       To reserve your program, or for any general information, please fill out
