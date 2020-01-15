@@ -39,6 +39,7 @@ sections:
       Birthday Party Presentation is designed for a group of up to 30
       participants for 1 hour, all for a low fee!
     image: ''
+    title: Birthdays
     type: section_content
   - actions:
       - label: Reserve your program now!
