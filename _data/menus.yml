@@ -1,12 +1,3 @@
-secondary:
-  - identifier: about-who
-    title: Who We Are
-    url: /who-we-are
-    weight: 1
-  - identifier: about-animals
-    title: The Animals
-    url: /animals
-    weight: 2
 main:
   - identifier: main-home
     title: Home
@@ -14,17 +5,17 @@ main:
     weight: 1
   - identifier: main-about
     title: About
-    url: /who-we-are
+    url: content/who-we-are
     weight: 2
   - identifier: main-prog
     title: Programs
-    url: /programs
+    url: content/programs
     weight: 3
   - identifier: main-cal
     title: Calendar
-    url: /calendar
+    url: content/calendar
     weight: 4
   - identifier: main-contact
     title: Contact
-    url: /contact
+    url: content/contact
     weight: 5
