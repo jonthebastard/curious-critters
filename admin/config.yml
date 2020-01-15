@@ -215,7 +215,7 @@ collections:
             name: avatar
             label: Avatar
             required: false
-  - name: landing
+  - name: pages
     label: Main Pages
     folder: content/
     create: true
@@ -776,8 +776,8 @@ collections:
     filter:
       field: layout
       value: landing
-  - name: page
-    label: Programs
+  - name: program
+    label: Program Pages
     folder: content/programs/
     create: true
     extension: md
@@ -787,20 +787,497 @@ collections:
         name: title
         label: Title
         required: true
-        hint: The title of the page
-      - widget: string
-        name: subtitle
-        label: Subtitle
+        hint: The title of the page.
+      - widget: list
+        name: sections
+        label: Sections
         required: false
-        hint: The text shown below the page title.
-      - widget: image
-        name: img_path
-        label: Image
-        required: false
-        hint: The image shown below the page title.
+        hint: Home page sections.
+        types:
+          - name: section_content
+            widget: object
+            label: Content Section
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: markdown
+                name: content
+                label: Content
+                required: false
+                hint: The text content of the section.
+              - widget: image
+                name: image
+                label: Image
+                required: false
+                hint: The image of the section.
+              - widget: select
+                name: bg
+                label: Background
+                required: false
+                default: gray
+                hint: The background of the section.
+                options:
+                  - gray
+                  - white
+              - widget: list
+                name: actions
+                label: Action Buttons
+                required: false
+                fields:
+                  - widget: string
+                    name: label
+                    label: Label
+                    required: true
+                    hint: The text displayed inside the button.
+                  - widget: string
+                    name: url
+                    label: Button URL
+                    required: false
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_content
+          - name: section_cta
+            widget: object
+            label: Call to Action Section
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section.
+              - widget: list
+                name: actions
+                label: Action Buttons
+                required: false
+                fields:
+                  - widget: string
+                    name: label
+                    label: Label
+                    required: true
+                    hint: The text displayed inside the button.
+                  - widget: string
+                    name: url
+                    label: Button URL
+                    required: false
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_cta
+          - name: section_faq
+            widget: object
+            label: FAQ Section
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section.
+              - widget: select
+                name: bg
+                label: Background
+                required: false
+                default: gray
+                hint: The background of the section.
+                options:
+                  - gray
+                  - white
+              - widget: list
+                name: faqitems
+                label: FAQ Items
+                required: false
+                fields:
+                  - widget: string
+                    name: question
+                    label: Question
+                    required: false
+                  - widget: markdown
+                    name: answer
+                    label: Answer
+                    required: false
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_faq
+          - name: section_features
+            widget: object
+            label: Features Section
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section.
+              - widget: select
+                name: bg
+                label: Background
+                required: false
+                default: gray
+                hint: The background of the section.
+                options:
+                  - gray
+                  - white
+              - widget: list
+                name: featureslist
+                label: Features List
+                required: false
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                  - widget: markdown
+                    name: content
+                    label: Content
+                    required: false
+                    hint: The text content of the feature.
+                  - widget: image
+                    name: image
+                    label: Image
+                    required: false
+                    hint: The image of the feature.
+                  - widget: list
+                    name: actions
+                    label: Action Buttons
+                    required: false
+                    fields:
+                      - widget: string
+                        name: label
+                        label: Label
+                        required: true
+                        hint: The text displayed inside the button.
+                      - widget: string
+                        name: url
+                        label: Button URL
+                        required: false
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_features
+          - name: section_hero
+            widget: object
+            label: Hero Section
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: markdown
+                name: content
+                label: Content
+                required: false
+                hint: The text content of the section.
+              - widget: image
+                name: image
+                label: Image
+                required: false
+                hint: The image of the section.
+              - widget: list
+                name: actions
+                label: Action Buttons
+                required: false
+                fields:
+                  - widget: string
+                    name: label
+                    label: Label
+                    required: true
+                    hint: The text displayed inside the button.
+                  - widget: string
+                    name: url
+                    label: Button URL
+                    required: false
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_hero
+          - name: section_posts
+            widget: object
+            label: Posts List
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section.
+              - widget: select
+                name: bg
+                label: Background
+                required: false
+                default: gray
+                hint: The background of the section.
+                options:
+                  - gray
+                  - white
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_posts
+          - name: section_pricing
+            widget: object
+            label: Pricing Section
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section.
+              - widget: select
+                name: bg
+                label: Background
+                required: false
+                default: gray
+                hint: The background of the section.
+                options:
+                  - gray
+                  - white
+              - widget: list
+                name: pricingplans
+                label: Pricing Plans
+                required: false
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                  - widget: string
+                    name: price
+                    label: Price
+                    required: false
+                  - widget: markdown
+                    name: details
+                    label: Details
+                    required: false
+                  - widget: boolean
+                    name: highlight
+                    label: Highlight
+                    required: false
+                    default: false
+                    hint: Make the plan stand out by adding a distinctive style.
+                  - widget: list
+                    name: actions
+                    label: Action Buttons
+                    required: false
+                    fields:
+                      - widget: string
+                        name: label
+                        label: Label
+                        required: true
+                        hint: The text displayed inside the button.
+                      - widget: string
+                        name: url
+                        label: Button URL
+                        required: false
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_pricing
+          - name: section_reviews
+            widget: object
+            label: Reviews Section
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section.
+              - widget: select
+                name: bg
+                label: Background
+                required: false
+                default: gray
+                hint: The background of the section.
+                options:
+                  - gray
+                  - white
+              - widget: list
+                name: reviews
+                label: Reviews
+                required: false
+                fields:
+                  - widget: string
+                    name: author
+                    label: Author
+                    required: false
+                  - widget: image
+                    name: avatar
+                    label: Avatar
+                    required: false
+                  - widget: string
+                    name: content
+                    label: Content
+                    required: false
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_reviews
+          - name: section_contact
+            widget: object
+            label: Contact Section
+            fields:
+              - widget: string
+                name: section_id
+                label: Element ID of this section
+                required: false
+                hint: >-
+                  The element ID can be used to link to this section from
+                  another section
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of this section
+              - widget: string
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The text shown below the title.
+              - widget: markdown
+                name: content
+                label: Content
+                required: false
+                hint: 'The text content of the section, appears before contact form'
+              - widget: select
+                name: bg
+                label: Background
+                required: false
+                default: gray
+                hint: The background of the section.
+                options:
+                  - gray
+                  - white
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: section_contact
       - widget: object
         name: menus
-        label: Page Menus
+        label: Landing Page Menus
         required: false
         hint: Which menus should this page show up in
         fields:
@@ -856,15 +1333,10 @@ collections:
         name: layout
         label: Layout
         required: true
-        default: page
-      - widget: markdown
-        name: body
-        label: Content
-        required: false
-        hint: Page content
-    #filter:
-    #  field: layout
-    #  value: page
+        default: landing
+    filter:
+      field: layout
+      value: landing
   - name: post
     label: Animals
     folder: _posts
