@@ -778,7 +778,7 @@ collections:
       value: landing
   - name: page
     label: Programs
-    folder: content/programs
+    folder: content/programs/
     create: true
     extension: md
     slug: '{{slug}}'
