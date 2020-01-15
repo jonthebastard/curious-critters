@@ -4,14 +4,18 @@ main:
     url: /
     weight: 1
   - identifier: main-about
-    title: About
+    title: Who We Are
     url: content/who-we-are
     weight: 2
+  - identifier: main-animals
+    title: Our Animals
+    url: content/animals
+    weight: 3
   - identifier: main-prog
     title: Programs
     url: content/programs
-    weight: 3
+    weight: 4
   - identifier: main-cal
     title: Calendar
     url: content/calendar
-    weight: 4
+    weight: 5

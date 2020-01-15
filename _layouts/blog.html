@@ -4,7 +4,9 @@ layout: body
 
 <div class="outer">
   <div class="inner">
-
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+      </header>
     <div class="post-feed">
       {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
       {% for post in display_posts %}
@@ -23,10 +25,6 @@ layout: body
             <div class="post-excerpt">
               <p>{{ post.excerpt }}</p>
             </div>
-            <footer class="post-meta">
-              <time class="published"
-                datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%B %d, %Y' }}</time>
-            </footer>
           </div><!-- post-card-content -->
         </div><!-- .post-card-inside -->
       </article><!-- .post -->
