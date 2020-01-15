@@ -6,44 +6,25 @@ sections:
       ![](/images/programs/programs-field-01.jpg)
 
 
-      Does your little one have a birthday coming up? We can help make it the
-      most memorable birthday yet! We will bring 4 or more of our amazing
-      animals to your house or party location, where we will tell the attendees
-      about the animals and give everyone a chance to touch each one. Children
-      will delight in watching an animal roam around the room! While being
-      entertained by the antics of the animals, they may even learn some fun
-      facts about topics such as pet care, animal training, parental care, local
-      wildlife, and the environment we share. You can choose which topic you
-      want them to learn about most.
+      Take your class on a hassle-free field trip to a nearby park, beach, pond,
+      or wooded area, with our educator as your personal nature guide! We can do
+      this in almost any open space, even one your class can walk to, because
+      biodiversity abounds everywhere! Students will explore the details of the
+      sights, sounds, feel, smell, and even taste of nature with a knowledgeable
+      guide. Observing the interconnectedness of living things and the
+      environment first hand, students will learn to identify and describe
+      adaptations and structures of living things and their functions for
+      survival. They will break into groups to measure and plot a transect in a
+      habitat. In that study plot, they will identify and count all the living
+      things they can find, recording their data. 
 
 
-
-      Through the interactive presentation, the
-      kids will have a blast acting like animals, and you'll learn more than
-      you thought you could at a birthday party! The birthday child will even
-      get to have their picture taken while holding an exotic animal\*, and will
-      get a special gift!  Presentation is for one hour, up to 30 participants.
-      Additional adults are welcome to attend and watch. Can be held indoors or
-      outdoors in warm weather. We always bring a variety of at least four
-      animals, but we can bring an extra mystery animal for $50!
-
-
-
-      \* Presenter will allow the birthday child to hold an animal at their sole
-      discretion, depending on the situation at hand, to ensure the safety of
-      the animal and child. If presenter decides that allowing the child to hold
-      the animal is risky, the presenter will hold or position the animal next
-      to the child for the photo. The camera and photographer are to be provided
-      by the guardians of the child. All photos posted on social media by the
-      participants must be attributed to "Curious Critters by Casai" or hash
-      tagged as #curiouscrittersbycasai. 
-
-
-
-      Birthday Party Presentation is designed for a group of up to 30
-      participants for 1 hour, [all for a low fee](/content/programs/program-fees)!
+      [Tell us](contact) what grade level and Life Science or Earth Science
+      topics or standards you'd like us to concentrate on, and we can tailor the
+      content to your group! Program designed for a class of up to 35 students
+      for 2 hours, all for [a low fee](/content/programs/program-fees)!
     image: ''
-    title: Birthdays
+    title: Field Trips
     type: section_content
   - actions:
       - label: Reserve your program now!
