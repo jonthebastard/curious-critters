@@ -6,44 +6,128 @@ sections:
       ![](/images/programs/programs-classrooms-01.jpg)
 
 
-      Does your little one have a birthday coming up? We can help make it the
-      most memorable birthday yet! We will bring 4 or more of our amazing
-      animals to your house or party location, where we will tell the attendees
-      about the animals and give everyone a chance to touch each one. Children
-      will delight in watching an animal roam around the room! While being
-      entertained by the antics of the animals, they may even learn some fun
-      facts about topics such as pet care, animal training, parental care, local
-      wildlife, and the environment we share. You can choose which topic you
-      want them to learn about most.
+      We will bring exotic, safe animals to your school for the kids to touch!
+      Presentations of the animals include engaging group discussions and
+      hands-on activities. Just tell us the grade level and topic or standards
+      you want to cover, and we will tailor a program to your group! Programs
+      are designed to fit into a normal class period for up to 35 students, and
+      can be done back-to-back for multiple classes. We offer a discount for
+      multiple programs in the same location. We always bring a variety of at
+      least four animals, but we can bring an extra mystery animal for $50! 
 
 
-
-      Through the interactive presentation, the
-      kids will have a blast acting like animals, and you'll learn more than
-      you thought you could at a birthday party! The birthday child will even
-      get to have their picture taken while holding an exotic animal\*, and will
-      get a special gift!  Presentation is for one hour, up to 30 participants.
-      Additional adults are welcome to attend and watch. Can be held indoors or
-      outdoors in warm weather. We always bring a variety of at least four
-      animals, but we can bring an extra mystery animal for $50!
+      ## This is the general presentation guideline for all grades:
 
 
+      Students will observe and touch 4 animals from these groups: reptile,
+      mammal, bird, amphibian, insect or other arthropod. We have a fun,
+      engaging discussion where students draw on their visual, tactile, and
+      auditory observations to answer and ask questions. We focus on grade
+      appropriate topics of Life Science and Earth Science in the Next
+      Generation Science Standards, which their school teacher can choose. We
+      engage in hands-on activities that incorporate several Science and
+      Engineering Practices, as well as ELA and Mathematics Standards to
+      investigate scientific concepts and learn more about the animals. We can
+      accommodate requests from the teacher for specific standards that they
+      would like their class to work on. The students will practice skills in
+      Language Arts and Mathematics, as well as Science and Engineering, in
+      order to master several Disciplinary Core Ideas. 
 
-      \* Presenter will allow the birthday child to hold an animal at their sole
-      discretion, depending on the situation at hand, to ensure the safety of
-      the animal and child. If presenter decides that allowing the child to hold
-      the animal is risky, the presenter will hold or position the animal next
-      to the child for the photo. The camera and photographer are to be provided
-      by the guardians of the child. All photos posted on social media by the
-      participants must be attributed to "Curious Critters by Casai" or hash
-      tagged as #curiouscrittersbycasai. 
+
+      ## Here are some examples of programs we do:
 
 
+      ### Kindergarten: Finding Resources
 
-      Birthday Party Presentation is designed for a group of up to 30
-      participants for 1 hour, [all for a low fee](/content/programs/program-fees)!
+
+      Students will observe and touch 4 animals from these groups: reptile,
+      mammal, bird, amphibian, insect or other arthropod! We have a fun
+      discussion where students will answer and ask questions about how the
+      animals find and obtain food, water, shelter, and air from their
+      environment. We look at a model of an animal or an artifact and compare it
+      to the live animal. Students will watch an animal breathing, and if the
+      animals cooperate, they will also observe an animal eating or finding
+      shelter! They will model behaviors observed, through dramatization. After
+      the lesson, they will be able to use their observations to describe how
+      animals get resources and name the animal's body parts on a picture. 
+
+
+      Standards this program helps students achieve:
+
+
+      NGSS K-LS1-1\
+
+      K-ESS2-2\
+
+      K-ESS3-1\
+
+      K-ESS3-3
+
+
+      CCSS.ELA-LITERACY.SL.K.1\
+
+      SL.K.2\
+
+      SL.K.3\
+
+      SL.K.5\
+
+      SL.K.6
+
+
+      CCSS.MATH.CONTENT.K.MD.A.1\
+
+      K.MD.A.2
+
+
+      ### 1st grade: Survival
+
+
+      Students will observe and touch 4 animals from these groups: reptile,
+      mammal, bird, amphibian, insect or other arthropod! We have an engaging
+      discussion where students will answer and ask questions about what
+      adaptations and structures animals use to obtain food, water, shelter, and
+      air, and what behaviors they do to ensure their offspring survive. They
+      will touch an artifact from an animal which demonstrates an adaptation for
+      survival! The educator will show pictures of animals' parents and students
+      will verbally compare features to the offspring. After the lesson, they
+      will be able to describe patterns in the body parts and behaviors the
+      animals use to obtain resources and help offspring. They will be able to
+      use their observations to draw an account of similarities and differences
+      between parents and offspring. 
+
+
+      Standards this program helps students achieve:
+
+
+      NGSS 1-LS1-1\
+
+      1-LS1-2\
+
+      1-LS3-1
+
+
+      CCSS.ELA-LITERACY.SL.1.1\
+
+      SL.1.2\
+
+      SL.1.3\
+
+      SL.1.5
+
+
+      W.1.8
+
+
+      CCSS.MATH.CONTENT.1.MD.C.4\
+
+      1.G.A.1
+
+
+      Programs are designed for a class of up to 35 students for 1 hour, all for
+      [a low fee](/content/programs/program-fees)!
     image: ''
-    title: Birthdays
+    title: Classrooms
     type: section_content
   - actions:
       - label: Reserve your program now!
