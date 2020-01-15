@@ -28,8 +28,7 @@ sections:
         content: >-
           Learn more about the humans who run Curious Critters, our mission
           statement, and our codes of ethics and values.
-        image: >-
-          /images/people/people-casai.jpg
+        image: /images/people/people-casai.jpg
         title: The Handlers
       - actions:
           - label: Learn More
@@ -37,8 +36,7 @@ sections:
         content: >-
           We specialize in Birthday Parties and Schools, but can do
           presentations for almost any group!
-        image: >-
-          /images/programs/programs-home-01.jpg
+        image: /images/programs/programs-home-01.jpg
         title: Our Programs
     section_id: features
     subtitle: ''
@@ -53,8 +51,8 @@ sections:
     type: section_cta
 menus:
   main:
-    title: Home
-    weight: 1
+    title: ''
+    weight: ''
 layout: landing
 ---
 
