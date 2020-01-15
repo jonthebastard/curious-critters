@@ -533,6 +533,20 @@ collections:
                 options:
                   - gray
                   - white
+              - widget: list
+                    name: actions
+                    label: Action Buttons
+                    required: false
+                    fields:
+                      - widget: string
+                        name: label
+                        label: Label
+                        required: true
+                        hint: The text displayed inside the button.
+                      - widget: string
+                        name: url
+                        label: Button URL
+                        required: false
               - widget: hidden
                 name: type
                 label: Reference Type Name
