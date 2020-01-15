@@ -51,8 +51,8 @@ sections:
     type: section_cta
 menus:
   main:
-    title: ''
-    weight: ''
+    title: Home
+    weight: 1
 layout: landing
 ---
 
