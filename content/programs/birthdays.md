@@ -3,6 +3,9 @@ title: Birthdays
 sections:
   - bg: gray
     content: >-
+      ![](/images/animals-thumbs.jpg)
+
+
       Does your little one have a birthday coming up? We can help make it the
       most memorable birthday yet! We will bring 4 or more of our amazing
       animals to your house or party location, where we will tell the attendees
@@ -16,13 +19,11 @@ sections:
 
 
       you thought you could at a birthday party! The birthday child will even
-      get to have their picture taken while holding an exotic animal\*, and will
-      get a special gift! 
-
-      Presentation is for one hour, up to 30 participants. Additional adults are
-      welcome to attend and watch. Can be held indoors or outdoors in warm
-      weather. We always bring a variety of at least four animals, but we can
-      bring an extra mystery animal for $50!
+      get to have their picture taken while holding an exotic animal*, and will
+      get a special gift!  Presentation is for one hour, up to 30 participants.
+      Additional adults are welcome to attend and watch. Can be held indoors or
+      outdoors in warm weather. We always bring a variety of at least four
+      animals, but we can bring an extra mystery animal for $50!
 
 
       * Presenter will allow the birthday child to hold an animal at their sole
@@ -37,7 +38,7 @@ sections:
 
       Birthday Party Presentation is designed for a group of up to 30
       participants for 1 hour, all for a low fee!
-    image: /images/animals-thumbs.jpg
+    image: ''
     type: section_content
   - actions:
       - label: Reserve your program now!
