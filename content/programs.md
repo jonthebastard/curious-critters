@@ -3,21 +3,21 @@ title: Programs
 sections:
   - actions:
       - label: Birthdays
-        url: pages/birthdays
+        url: content/programs/birthdays
       - label: Events
-        url: pages/events
+        url: content/programs/events
       - label: Classrooms
-        url: pages/classrooms
+        url: content/programs/classrooms
       - label: Scout Programs
-        url: pages/scout-programs
+        url: content/programs/scout-programs
       - label: Groups
-        url: pages/groups
+        url: content/programs/groups
       - label: Photo Shoots
-        url: pages/photo-shoots
+        url: content/programs/photo-shoots
       - label: Field Trips
-        url: pages/field-trips
+        url: content/programs/field-trips
       - label: Program Fees
-        url: pages/program-fees
+        url: content/programs/program-fees
     content: >-
       Up to 35 participants can enjoy an interactive 1 hour presentation of fun
       facts where they all have the opportunity to touch at least 4 of our

@@ -16,9 +16,8 @@ sections:
 
 
       you thought you could at a birthday party! The birthday child will even
-      get to have their picture taken while holding an exotic animal*, and will
+      get to have their picture taken while holding an exotic animal\*, and will
       get a special gift! 
-
 
       Presentation is for one hour, up to 30 participants. Additional adults are
       welcome to attend and watch. Can be held indoors or outdoors in warm
