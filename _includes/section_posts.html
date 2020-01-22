@@ -14,18 +14,17 @@
   <div class="inner">
     <div class="post-feed">
       <section id="photos">
-        <a href="#"><img src="images/animals/thumbs/00-domesticrabbit.jpg" alt="Domestic Rabbit"></a>
-        <a href="#"><img src="images/animals/thumbs/00-domesticrat.jpg" alt="Domestic Rat"></a>
-        <a href="#"><img src="images/animals/thumbs/00-dumerilsboa.jpg" alt="Dumeril's Boa"></a>
-        <a href="#"><img src="images/animals/thumbs/00-flemishgiantrabbit.jpg" alt="Flemish Giant Rabbit"></a>
-        <a href="#"><img src="images/animals/thumbs/00-greeniguana.jpg" alt="Green Iguana"></a>
-        <a href="#"><img src="images/animals/thumbs/00-madagascarhissingcockroach.jpg" alt="Madagascar Hissing Cockroach"></a>
-        <a href="#"><img src="images/animals/thumbs/00-nigeriandwarfgoat.jpg" alt="Nigerian Dwarf Goat"></a>
-        <a href="#"><img src="images/animals/thumbs/00-rubberboa.jpg" alt="Rubber Boa"></a>
-        <a href="#"><img src="images/animals/thumbs/00-sulcatatortoise.jpg" alt="Sulcata Tortoise"></a>
-        <a href="#"><img src="images/animals/thumbs/00-tigersalamander.jpg" alt="Tiger Salamander"></a>
-        <a href="#"><img src="images/animals/thumbs/00-turkey.jpg" alt="Turkey"></a>
-        <a href="#"><img src="images/animals/thumbs/00-waxymonkeyfrog.jpg" alt="Waxy Monkey Frog">
+        {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
+        {% for post in display_posts %}
+          <div class="thumb-container">
+            <a href="{{ post.url | relative_url }}" rel="bookmark">
+              <img class="thumb-image" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.title }}" />
+              <div class="thumb-middle">
+                <div class="thumb-text">{{ post.title }}</div>
+              </div>
+            </a>
+          </div>
+        {% endfor %}
       </section>
     </div><!-- .post-feed -->
   </div><!-- .inner -->

@@ -1,7 +1,8 @@
 ---
-title: Alejandro
+title: Flemish Giant Rabbit
 thumb_img_path: /images/animals/00-flemishgiantrabbit.jpg
-excerpt: Flemish Giant Rabbit
+excerpt: Oryctolagus cuniculus
+wiki_url: https://en.wikipedia.org/wiki/Flemish_Giant_rabbit
 layout: post
 categories: animals
 
@@ -11,7 +12,7 @@ lightbox_imgs:
 
 ---
 
-Alejandro is a Flemish Giant Rabbit mix, weighing in at a healthy 9.5 lbs, which is smaller than
+**Alejandro** is a Flemish Giant Rabbit mix, weighing in at a healthy 9.5 lbs, which is smaller than
 a pure bred Flemish giant! He had been found running around loose a little while after Easter. It
 is a common practice for people to get a baby bunny for Easter for their children. When that bunny
 outgrows the cage or hutch, or the child gets bored of it and stops taking care of it, the parents

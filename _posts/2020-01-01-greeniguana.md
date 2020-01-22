@@ -1,7 +1,8 @@
 ---
-title: Trogdor
+title: Green Iguana
 thumb_img_path: /images/animals/00-greeniguana.jpg
-excerpt: Green Iguana
+excerpt: Iguana iguana
+wiki_url: https://en.wikipedia.org/wiki/Green_iguana
 layout: post
 categories: animals
 
@@ -11,7 +12,7 @@ lightbox_imgs:
 
 ---
 
-Trogdor is a Green Iguana, born in 2010, and already full size at 6 feet long, including his
+**Trogdor** is a Green Iguana, born in 2010, and already full size at 6 feet long, including his
 tail! He's a very handsome male with large sub-tympanic shields, and a lot of spikes along
 his back. His first owner didn't give him the proper UVA and UVB lights, which led to him
 developing metabolic bone disease, a common issue in pet iguanas. After being painstakingly

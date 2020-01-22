@@ -1,7 +1,8 @@
 ---
-title: Coraline
+title: Domestic Rabbit
 thumb_img_path: /images/animals/00-domesticrabbit.jpg
-excerpt: Domestic Rabbit
+excerpt: Oryctolagus cuniculus domesticus
+wiki_url: https://en.wikipedia.org/wiki/Domestic_rabbit
 layout: post
 categories: animals
 
@@ -13,7 +14,7 @@ lightbox_imgs:
 
 ---
 
-Coraline is a 5 lb. mixed breed domestic rabbit. We adopted her at about 4 years of age in 2012.
+**Coraline** is a 5 lb. mixed breed domestic rabbit. We adopted her at about 4 years of age in 2012.
 She had a history of chronic upper respiratory and ear infections. Her previous owners didn't
 treat her infections, and allowed them to get so bad that her right facial nerve was damaged.
 This means that her right ear, lips, and cheek are now paralyzed, and her cheek muscles are

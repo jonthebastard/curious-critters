@@ -40,7 +40,7 @@ h6 {
   color: _palette(secondary);
   font-weight: bold;
   line-height: 1.2;
-  margin: 2.5rem 0 0.83333rem;
+  margin: -1rem;
   text-rendering: optimizeLegibility;
 
   &:first-child {
@@ -77,7 +77,7 @@ h6 {
 }
 
 p {
-  margin: 0 0 1.66667em;
+  margin: 1.66667em 0 1.66667em;
 }
 
 address {
@@ -377,6 +377,14 @@ video {
 img {
   height: auto;
   max-width: 100%;
+}
+
+.big-thumb {
+  text-align: center;
+}
+
+.big-thumb a {
+  border-bottom-style: none;
 }
 
 .post-thumbnail img,

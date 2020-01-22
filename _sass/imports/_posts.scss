@@ -11,6 +11,7 @@
   text-align: center;
 
   .post-title {
+    text-align: center;
     margin: 0 0 1.66667rem;
 
     a {
@@ -150,9 +151,14 @@
   }
 
   .post-excerpt {
+    font-style: italic;
+    text-align: center;
     font-size: 16px;
   }
 
+  .post-excerpt p {
+    margin: 0;
+  }
   .post-meta {
     font-size: 14px;
     margin: 0;

@@ -1,7 +1,8 @@
 ---
-title: Dottie
+title: Dumeril's Boa
 thumb_img_path: /images/animals/00-dumerilsboa.jpg
-excerpt: Dumeril's Boa
+excerpt: Acrantophis dumerili
+wiki_url: https://en.wikipedia.org/wiki/Acrantophis_dumerili
 layout: post
 categories: animals
 
@@ -13,7 +14,7 @@ lightbox_imgs:
 
 ---
 
-Dottie is a docile Dumeril's Boa, who is full-size at 7 feet long! She is a non-venomous
+**Dottie** is a docile Dumeril's Boa, who is full-size at 7 feet long! She is a non-venomous
 constrictor. We were generously given her in 2014 from another zoo where she was no longer
 needed. They adopted her from someone who didn't know how old she was. However, when we got her,
 she was full-grown and was a successful breeder, so she had to be at least five years old, and
