@@ -4,173 +4,173 @@ backend:
 media_folder: images
 public_folder: /images
 collections:
-#  - name: config
-#    label: Global Site Config
-#    files:
-#      - name: config
-#        label: Global Site Config
-#        file: _config.yml
-#        fields:
-#          - widget: string
-#            name: title
-#            label: Title
-#            required: true
-#            hint: Site title
-#          - widget: hidden
-#            name: baseurl
-#            label: Base URL
-#            required: false
-#            hint: Serve the website from the given base URL
-#          - widget: hidden
-#            name: permalink
-#            label: Permalink
-#            required: false
-#            default: '/posts/:slug:output_ext'
-#            hint: 'The output path for your pages, posts, or collections.'
-#          - widget: select
-#            name: palette
-#            label: Color Palette
-#            required: false
-#            default: blue
-#            hint: The color palette of the theme.
-#            options:
-#              - blue
-#              - purple
-#              - green
-#              - orange
-#          - widget: object
-#            name: header
-#            label: Header Configuration
-#            required: false
-#            fields:
-#              - widget: string
-#                name: title
-#                label: Header Title
-#                required: false
-#                hint: The title displayed in the header if no logo image added.
-#              - widget: image
-#                name: logo_img
-#                label: Logo
-#                required: false
-#                hint: The logo image displayed in the header.
-#              - widget: boolean
-#                name: has_nav
-#                label: Enable Navigation Menu
-#                required: false
-#                default: true
-#                hint: Display the navigation menu bar in the header.
-#              - widget: object
-#                name: menu
-#                label: Menu Action Buttons
-#                required: false
-#                fields:
-#                  - widget: list
-#                    name: actions
-#                    label: Action Buttons
-#                    required: false
-#                    hint: The action buttons displayed in the menu.
-#                    fields:
-#                      - widget: string
-#                        name: label
-#                        label: Label
-#                        required: true
-#                        hint: The text displayed inside the button.
-#                      - widget: string
-#                        name: url
-#                        label: Button URL
-#                        required: false
-#          - widget: object
-#            name: footer
-#            label: Footer Configuration
-#            required: false
-#            fields:
-#              - widget: image
-#                name: logo_img
-#                label: Logo
-#                required: false
-#                hint: The logo image displayed in the footer.
-#              - widget: string
-#                name: tagline
-#                label: Footer Tagline
-#                required: false
-#                hint: The tagline displayed in the footer.
-#              - widget: boolean
-#                name: has_nav
-#                label: Enable Navigation Menu
-#                required: false
-#                default: true
-#                hint: Display the secondary navigation menu in the footer.
-#              - widget: string
-#                name: nav_title
-#                label: Menu Title
-#                required: false
-#                hint: The title of the secondary menu displayed in the footer.
-#              - widget: boolean
-#                name: has_social
-#                label: Enable Social Links
-#                required: false
-#                default: true
-#                hint: Display social links in the footer.
-#              - widget: string
-#                name: social_title
-#                label: Social Links Title
-#                required: false
-#                hint: The title of the social links list displayed in the footer.
-#              - widget: boolean
-#                name: has_subscribe
-#                label: Enable Subscribe
-#                required: false
-#                default: true
-#                hint: Display the newsletter subscription form in the footer.
-#              - widget: string
-#                name: subscribe_title
-#                label: Subscribe Title
-#                required: false
-#                hint: The title of the subscribe block displayed in the footer.
-#              - widget: string
-#                name: subscribe_content
-#                label: Subscribe Content
-#                required: false
-#                hint: >-
-#                  The text content in the subscribe block displayed in the
-#                  footer.
-#              - widget: string
-#                name: content
-#                label: Footer Content
-#                required: false
-#                hint: The copyright text displayed in the footer.
-#              - widget: list
-#                name: links
-#                label: Links
-#                required: false
-#                hint: A list of links displayed in the footer.
-#                fields:
-#                  - widget: string
-#                    name: text
-#                    label: Link text
-#                    required: false
-#                  - widget: string
-#                    name: url
-#                    label: URL
-#                    required: false
-#                  - widget: boolean
-#                    name: new_window
-#                    label: Open in new window
-#                    required: false
-#                    default: true
-#          - widget: hidden
-#            name: sass
-#            label: Sass
-#            required: false
-#          - widget: hidden
-#            name: plugins
-#            label: Plugins
-#            required: false
-#          - widget: hidden
-#            name: exclude
-#            label: Exclude
-#            required: false
-#            hint: Exclude directories and/or files from the conversion.
+  - name: config
+    label: Global Site Config
+    files:
+      - name: config
+        label: Global Site Config
+        file: _config.yml
+        fields:
+          - widget: string
+            name: title
+            label: Title
+            required: true
+            hint: Site title
+          - widget: hidden
+            name: baseurl
+            label: Base URL
+            required: false
+            hint: Serve the website from the given base URL
+          - widget: hidden
+            name: permalink
+            label: Permalink
+            required: false
+            default: '/posts/:slug:output_ext'
+            hint: 'The output path for your pages, posts, or collections.'
+          - widget: select
+            name: palette
+            label: Color Palette
+            required: false
+            default: blue
+            hint: The color palette of the theme.
+            options:
+              - blue
+              - purple
+              - green
+              - orange
+          - widget: object
+            name: header
+            label: Header Configuration
+            required: false
+            fields:
+              - widget: string
+                name: title
+                label: Header Title
+                required: false
+                hint: The title displayed in the header if no logo image added.
+              - widget: image
+                name: logo_img
+                label: Logo
+                required: false
+                hint: The logo image displayed in the header.
+              - widget: boolean
+                name: has_nav
+                label: Enable Navigation Menu
+                required: false
+                default: true
+                hint: Display the navigation menu bar in the header.
+              - widget: object
+                name: menu
+                label: Menu Action Buttons
+                required: false
+                fields:
+                  - widget: list
+                    name: actions
+                    label: Action Buttons
+                    required: false
+                    hint: The action buttons displayed in the menu.
+                    fields:
+                      - widget: string
+                        name: label
+                        label: Label
+                        required: true
+                        hint: The text displayed inside the button.
+                      - widget: string
+                        name: url
+                        label: Button URL
+                        required: false
+          - widget: object
+            name: footer
+            label: Footer Configuration
+            required: false
+            fields:
+              - widget: image
+                name: logo_img
+                label: Logo
+                required: false
+                hint: The logo image displayed in the footer.
+              - widget: string
+                name: tagline
+                label: Footer Tagline
+                required: false
+                hint: The tagline displayed in the footer.
+              - widget: boolean
+                name: has_nav
+                label: Enable Navigation Menu
+                required: false
+                default: true
+                hint: Display the secondary navigation menu in the footer.
+              - widget: string
+                name: nav_title
+                label: Menu Title
+                required: false
+                hint: The title of the secondary menu displayed in the footer.
+              - widget: boolean
+                name: has_social
+                label: Enable Social Links
+                required: false
+                default: true
+                hint: Display social links in the footer.
+              - widget: string
+                name: social_title
+                label: Social Links Title
+                required: false
+                hint: The title of the social links list displayed in the footer.
+              - widget: boolean
+                name: has_subscribe
+                label: Enable Subscribe
+                required: false
+                default: true
+                hint: Display the newsletter subscription form in the footer.
+              - widget: string
+                name: subscribe_title
+                label: Subscribe Title
+                required: false
+                hint: The title of the subscribe block displayed in the footer.
+              - widget: string
+                name: subscribe_content
+                label: Subscribe Content
+                required: false
+                hint: >-
+                  The text content in the subscribe block displayed in the
+                  footer.
+              - widget: string
+                name: content
+                label: Footer Content
+                required: false
+                hint: The copyright text displayed in the footer.
+              - widget: list
+                name: links
+                label: Links
+                required: false
+                hint: A list of links displayed in the footer.
+                fields:
+                  - widget: string
+                    name: text
+                    label: Link text
+                    required: false
+                  - widget: string
+                    name: url
+                    label: URL
+                    required: false
+                  - widget: boolean
+                    name: new_window
+                    label: Open in new window
+                    required: false
+                    default: true
+          - widget: hidden
+            name: sass
+            label: Sass
+            required: false
+          - widget: hidden
+            name: plugins
+            label: Plugins
+            required: false
+          - widget: hidden
+            name: exclude
+            label: Exclude
+            required: false
+            hint: Exclude directories and/or files from the conversion.
   - name: social
     label: Social Media Links
     files:
@@ -196,25 +196,25 @@ collections:
                 name: url
                 label: URL
                 required: true
-#  - name: author
-#    label: Site Author
-#    files:
-#      - name: author
-#        label: Author
-#        file: _data/author.json
-#        fields:
-#          - widget: string
-#            name: name
-#            label: Name
-#            required: false
-#          - widget: string
-#            name: email
-#            label: Email
-#            required: false
-#          - widget: image
-#            name: avatar
-#            label: Avatar
-#            required: false
+  - name: author
+    label: Site Author
+    files:
+      - name: author
+        label: Author
+        file: _data/author.json
+        fields:
+          - widget: string
+            name: name
+            label: Name
+            required: false
+          - widget: string
+            name: email
+            label: Email
+            required: false
+          - widget: image
+            name: avatar
+            label: Avatar
+            required: false
   - name: pages
     label: Main Pages
     folder: content/
@@ -1454,68 +1454,68 @@ collections:
     filter:
       field: layout
       value: post
-#  - name: site_menus
-#    label: Nav Menus
-#    files:
-#      - name: site_menus
-#        label: Site Menus
-#        file: _data/menus.yml
-#        fields:
-#          - widget: list
-#            name: secondary
-#            label: Secondary menu
-#            required: false
-#            hint: List of items for Secondary menu
-#            fields:
-#              - widget: string
-#                name: identifier
-#                label: Identifier
-#                required: true
-#                hint: >-
-#                  The identifier of a menu item could be used as a parent menu
-#                  of another menu item
-#              - widget: string
-#                name: title
-#                label: Title
-#                required: true
-#                hint: The title of the menu item
-#              - widget: string
-#                name: url
-#                label: URL
-#                required: true
-#                hint: The URL the menu item links to
-#              - widget: number
-#                name: weight
-#                label: Weight
-#                required: false
-#                hint: Position for sorting
-#                valueType: int
-#          - widget: list
-#            name: main
-#            label: Main menu
-#            required: false
-#            hint: List of items for Main menu
-#            fields:
-#              - widget: string
-#                name: identifier
-#                label: Identifier
-#                required: true
-#                hint: >-
-#                  The identifier of a menu item could be used as a parent menu
-#                  of another menu item
-#              - widget: string
-#                name: title
-#                label: Title
-#                required: true
-#                hint: The title of the menu item
-#              - widget: string
-#                name: url
-#                label: URL
-#                required: true
-#                hint: The URL the menu item links to
-#              - widget: number
-#                name: weight
-#                label: Weight
-#                required: false
-#                hint: Position for sorting
-#                valueType: int
+  - name: site_menus
+    label: Nav Menus
+    files:
+      - name: site_menus
+        label: Site Menus
+        file: _data/menus.yml
+        fields:
+          - widget: list
+            name: secondary
+            label: Secondary menu
+            required: false
+            hint: List of items for Secondary menu
+            fields:
+              - widget: string
+                name: identifier
+                label: Identifier
+                required: true
+                hint: >-
+                  The identifier of a menu item could be used as a parent menu
+                  of another menu item
+              - widget: string
+                name: title
+                label: Title
+                required: true
+                hint: The title of the menu item
+              - widget: string
+                name: url
+                label: URL
+                required: true
+                hint: The URL the menu item links to
+              - widget: number
+                name: weight
+                label: Weight
+                required: false
+                hint: Position for sorting
+                valueType: int
+          - widget: list
+            name: main
+            label: Main menu
+            required: false
+            hint: List of items for Main menu
+            fields:
+              - widget: string
+                name: identifier
+                label: Identifier
+                required: true
+                hint: >-
+                  The identifier of a menu item could be used as a parent menu
+                  of another menu item
+              - widget: string
+                name: title
+                label: Title
+                required: true
+                hint: The title of the menu item
+              - widget: string
+                name: url
+                label: URL
+                required: true
+                hint: The URL the menu item links to
+              - widget: number
+                name: weight
+                label: Weight
+                required: false
+                hint: Position for sorting
+                valueType: int
