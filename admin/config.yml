@@ -2,10 +2,11 @@ backend:
   name: git-gateway
   branch: master
 publish_mode: editorial_workflow
+
 media_folder: assets/img
-public_folder: public
 site_url: https://curious-critters-d3860.netlify.com/
 display_url: https://curious-critters-d3860.netlify.com/
+
 collections:
   - name: social
     label: Social Media
@@ -1274,68 +1275,3 @@ collections:
     filter:
       field: layout
       value: post
-#  - name: site_menus
-#    label: Nav Menus
-#    files:
-#      - name: site_menus
-#        label: Site Menus
-#        file: _data/menus.yml
-#        fields:
-#          - widget: list
-#            name: secondary
-#            label: Secondary menu
-#            required: false
-#            hint: List of items for Secondary menu
-#            fields:
-#              - widget: string
-#                name: identifier
-#                label: Identifier
-#                required: true
-#                hint: >-
-#                  The identifier of a menu item could be used as a parent menu
-#                  of another menu item
-#              - widget: string
-#                name: title
-#                label: Title
-#                required: true
-#                hint: The title of the menu item
-#              - widget: string
-#                name: url
-#                label: URL
-#                required: true
-#                hint: The URL the menu item links to
-#              - widget: number
-#                name: weight
-#                label: Weight
-#                required: false
-#                hint: Position for sorting
-#                valueType: int
-#          - widget: list
-#            name: main
-#            label: Main menu
-#            required: false
-#            hint: List of items for Main menu
-#            fields:
-#              - widget: string
-#                name: identifier
-#                label: Identifier
-#                required: true
-#                hint: >-
-#                  The identifier of a menu item could be used as a parent menu
-#                  of another menu item
-#              - widget: string
-#                name: title
-#                label: Title
-#                required: true
-#                hint: The title of the menu item
-#              - widget: string
-#                name: url
-#                label: URL
-#                required: true
-#                hint: The URL the menu item links to
-#              - widget: number
-#                name: weight
-#                label: Weight
-#                required: false
-#                hint: Position for sorting
-#                valueType: int
