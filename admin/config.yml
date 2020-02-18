@@ -30,7 +30,6 @@ collections:
         required: false
         fields:
           - widget: image
-            name: lb_img
             label: Image
             required: false
             media_library:
