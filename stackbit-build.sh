@@ -12,5 +12,5 @@ else
 fi
 curl -s -X POST https://api.stackbit.com/project/5e1d386076304a00198be74d/webhook/build/ssgbuild > /dev/null
 jekyll build
-./inject-netlify-identity-widget.js public
+./inject-netlify-identity-widget.js _site
 curl -s -X POST https://api.stackbit.com/project/5e1d386076304a00198be74d/webhook/build/publish > /dev/null
