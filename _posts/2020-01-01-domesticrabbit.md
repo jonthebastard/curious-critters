@@ -1,16 +1,16 @@
 ---
 title: Domestic Rabbit
-thumb_img_path: /images/animals/00-domesticrabbit.jpg
+thumb_img_path: assets/img/animals/00-domesticrabbit.jpg
 excerpt: Oryctolagus cuniculus domesticus
 wiki_url: https://en.wikipedia.org/wiki/Domestic_rabbit
 layout: post
 categories: animals
 
 lightbox_imgs:
-  - /images/animals/coraline-01.jpg
-  - /images/animals/coraline-02.jpg
-  - /images/animals/coraline-03.jpg
-  - /images/animals/coraline-04.jpg
+  - assets/img/animals/coraline-01.jpg
+  - assets/img/animals/coraline-02.jpg
+  - assets/img/animals/coraline-03.jpg
+  - assets/img/animals/coraline-04.jpg
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Nigerian Dwarf Goat
-thumb_img_path: /images/animals/00-nigeriandwarfgoat.jpg
+thumb_img_path: assets/img/animals/00-nigeriandwarfgoat.jpg
 excerpt: Aegagrus hircus
 wiki_url: https://www.marylandzoo.org/animal/nigerian-dwarf-goat/
 layout: post

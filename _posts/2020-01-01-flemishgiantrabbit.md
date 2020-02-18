@@ -1,14 +1,14 @@
 ---
 title: Flemish Giant Rabbit
-thumb_img_path: /images/animals/00-flemishgiantrabbit.jpg
+thumb_img_path: assets/img/animals/00-flemishgiantrabbit.jpg
 excerpt: Oryctolagus cuniculus
 wiki_url: https://en.wikipedia.org/wiki/Flemish_Giant_rabbit
 layout: post
 categories: animals
 
 lightbox_imgs:
-  - /images/animals/alejandro-01.jpg
-  - /images/animals/alejandro-02.jpg
+  - assets/img/animals/alejandro-01.jpg
+  - assets/img/animals/alejandro-02.jpg
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sulcata Tortoise
-thumb_img_path: /images/animals/00-sulcatatortoise.jpg
+thumb_img_path: assets/img/animals/00-sulcatatortoise.jpg
 excerpt: Centrochelys sulcata
 wiki_url: https://en.wikipedia.org/wiki/African_spurred_tortoise
 layout: post

@@ -7,7 +7,7 @@ sections:
       Area of Washington State to provide interactive, educational, hands-on
       programs. We specialize in Birthday Parties and Schools, but can do
       presentations for almost any group!
-    image: /images/cc-logo.jpg
+    image: /assets/img/misc/cc-logo.jpg
     section_id: hero_top
     title: Welcome!
     type: section_hero

@@ -1,6 +1,6 @@
 ---
 title: Tiger Salamander
-thumb_img_path: /images/animals/00-tigersalamander.jpg
+thumb_img_path: assets/img/animals/00-tigersalamander.jpg
 excerpt: Ambystoma californiense
 wiki_url: https://animaldiversity.org/accounts/Ambystoma_californiense/
 layout: post

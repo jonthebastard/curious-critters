@@ -3,7 +3,7 @@ title: Birthdays
 sections:
   - bg: gray
     content: >-
-      ![](/images/programs/programs-birthdays-01.jpg)
+      ![](/assets/img/programs/programs-birthdays-01.jpg)
 
 
       Does your little one have a birthday coming up? We can help make it the
@@ -17,7 +17,7 @@ sections:
       want them to learn about most.
 
 
-      ![](/images/programs/programs-birthdays-02.jpg)
+      ![](/assets/img/programs/programs-birthdays-02.jpg)
 
 
       Through the interactive presentation, the

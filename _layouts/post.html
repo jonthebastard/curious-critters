@@ -24,7 +24,7 @@ layout: body
             {{ content }}
           {% else %}
             {% for image in page.lightbox_imgs %}
-              <a href="{{ image | relative_url }}" data-lightbox="lb-image" data-title="{{ page.name }}, {{ page.excerpt }}">
+              <a href="{{ image | relative_url }}" data-lightbox="lb-image" data-title="{{ page.title }} ({{ page.excerpt }})">
                 <img width="{{ 700 | divided_by: image_count }}" src="{{ image | relative_url }}"/>
               </a>
             {% endfor %}

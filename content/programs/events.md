@@ -3,7 +3,7 @@ title: Events
 sections:
   - bg: gray
     content: >-
-      ![](/images/programs/programs-events-01.jpg)
+      ![](/assets/img/programs/programs-events-01.jpg)
 
 
       We are available for many different kinds of events, including:

@@ -3,7 +3,7 @@ title: Photo Shoots
 sections:
   - bg: gray
     content: >-
-      ![](/images/programs/programs-photo-02.jpg)
+      ![](/assets/img/programs/programs-photo-02.jpg)
 
 
       Do you want a unique photo booth for your event? Are you a photographer?

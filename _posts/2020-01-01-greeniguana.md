@@ -1,14 +1,14 @@
 ---
 title: Green Iguana
-thumb_img_path: /images/animals/00-greeniguana.jpg
+thumb_img_path: assets/img/animals/00-greeniguana.jpg
 excerpt: Iguana iguana
 wiki_url: https://en.wikipedia.org/wiki/Green_iguana
 layout: post
 categories: animals
 
 lightbox_imgs:
-  - /images/animals/trogdor-01.jpg
-  - /images/animals/trogdor-02.jpg
+  - assets/img/animals/trogdor-01.jpg
+  - assets/img/animals/trogdor-02.jpg
 
 ---
 
