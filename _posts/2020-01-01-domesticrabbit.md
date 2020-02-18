@@ -1,17 +1,9 @@
 ---
 title: Domestic Rabbit
-thumb_img_path: assets/img/animals/00-domesticrabbit.jpg
+date: 2020-02-18T05:40:42.137Z
+thumb_img_path: /assets/post_img/00-domesticrabbit.jpg
 excerpt: Oryctolagus cuniculus domesticus
-wiki_url: https://en.wikipedia.org/wiki/Domestic_rabbit
 layout: post
-categories: animals
-
-lightbox_imgs:
-  - assets/img/animals/coraline-01.jpg
-  - assets/img/animals/coraline-02.jpg
-  - assets/img/animals/coraline-03.jpg
-  - assets/img/animals/coraline-04.jpg
-
 ---
 
 **Coraline** is a 5 lb. mixed breed domestic rabbit. We adopted her at about 4 years of age in 2012.
