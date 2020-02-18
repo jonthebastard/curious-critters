@@ -1,8 +1,11 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: /assets/img
-public_folder: /public
+publish_mode: editorial_workflow
+media_folder: assets/img
+public_folder: public
+site_url: https://curious-critters-d3860.netlify.com/
+display_url: https://curious-critters-d3860.netlify.com/
 collections:
   - name: social
     label: Social Media
