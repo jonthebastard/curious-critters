@@ -6,10 +6,6 @@ wiki_url: https://en.wikipedia.org/wiki/Flemish_Giant_rabbit
 layout: post
 categories: animals
 
-lightbox_imgs:
-  - assets/img/animals/alejandro-01.jpg
-  - assets/img/animals/alejandro-02.jpg
-
 ---
 
 **Alejandro** is a Flemish Giant Rabbit mix, weighing in at a healthy 9.5 lbs, which is smaller than

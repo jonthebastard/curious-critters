@@ -8,31 +8,37 @@ site_url: https://curious-critters-d3860.netlify.com/
 display_url: https://curious-critters-d3860.netlify.com/
 
 collections:
-  - name: social
-    label: Social Media
-    files:
-      - name: social
-        label: Social Links
-        file: _data/social.json
+  - name: post
+    label: Animals
+    label_singular: Animal Page
+    folder: _posts
+    create: true
+    extension: md
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { widget: 'string'   , name: 'title'          , label: 'Title'           , required: true   , hint: 'The title of the post.'}
+      - { widget: 'string'   , name: 'subtitle'       , label: 'Subtitle'        , required: false  , hint: 'The text shown just below the Title or the Featured Image.' }
+      - { widget: 'date'     , name: 'date'           , label: 'Date'            , required: true }
+      - { widget: 'image'    , name: 'thumb_img_path' , label: 'Thumbnail Image' , required: true  , hint: 'The image shown in the blog feed.' }
+      - { widget: 'image'    , name: 'img_path'       , label: 'Featured Image'  , required: false  , hint: 'The image shown below the title.' }
+      - { widget: 'string'   , name: 'excerpt'        , label: 'Species'         , required: false  , hint: 'The excerpt of the post displayed in the blog feed.' }
+      - { widget: 'hidden'   , name: 'layout'         , label: 'Layout'          , required: true   , default: 'post' }
+      - { widget: 'markdown' , name: 'body'           , label: 'Content'         , required: false  , hint: 'Page content' }
+      - widget: list
+        name: lightbox_imgs
+        label: Lighbox Images
+        required: false
         fields:
-          - widget: list
-            name: links
-            label: Social Media Links
-            required: true
-            hint: A list of social links displayed in the footer.
-            fields:
-              #- widget: hidden
-              #  name: type
-              #  label: Type
-              #  required: false
-              - widget: string
-                name: title
-                label: Title
-                required: true
-              - widget: string
-                name: url
-                label: URL
-                required: true
+          - widget: image
+            name: lb_img
+            label: Image
+            required: false
+            media_library:
+              config:
+                multiple: true
+    filter:
+      field: layout
+      value: post
   - name: pages
     label: Main Pages
     label_singular: Page
@@ -41,11 +47,7 @@ collections:
     extension: md
     slug: '{{slug}}'
     fields:
-      - widget: string
-        name: title
-        label: Title
-        required: true
-        hint: The title of the page.
+      - { widget: 'string', name: 'title', label: 'Title', required: true, hint: 'The title of the page.' }
       - widget: list
         name: sections
         label: Sections
@@ -1171,107 +1173,28 @@ collections:
     filter:
       field: layout
       value: landing
-  - name: post
-    label: Animals
-    label_singular: Animal Page
-    folder: _posts
-    create: true
-    extension: md
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields:
-      - widget: string
-        name: title
-        label: Title
-        required: true
-        hint: The title of the post.
-      - widget: string
-        name: subtitle
-        label: Subtitle
-        required: false
-        hint: The text shown just below the Title or the Featured Image.
-      - widget: date
-        name: date
-        label: Date
-        required: true
-      - widget: image
-        name: thumb_img_path
-        label: Blog Feed Image
-        required: false
-        hint: The image shown in the blog feed.
-      - widget: image
-        name: img_path
-        label: Featured Image
-        required: false
-        hint: The image shown below the title.
-      - widget: string
-        name: excerpt
-        label: Excerpt
-        required: false
-        hint: The excerpt of the post displayed in the blog feed.
-      - widget: object
-        name: menus
-        label: Post Menus
-        required: false
-        hint: Which menus should this page show up in
+  - name: social
+    label: Social Media
+    files:
+      - name: social
+        label: Social Links
+        file: _data/social.json
         fields:
-          - widget: object
-            name: secondary
-            label: Secondary menu item
-            required: false
-            hint: Secondary menu item for this page
+          - widget: list
+            name: links
+            label: Social Media Links
+            required: true
+            hint: A list of social links displayed in the footer.
             fields:
+              #- widget: hidden
+              #  name: type
+              #  label: Type
+              #  required: false
               - widget: string
                 name: title
                 label: Title
-                required: false
-                hint: The title of the menu item
-              - widget: number
-                name: weight
-                label: Weight
-                required: false
-                hint: Position for sorting
-                valueType: int
+                required: true
               - widget: string
-                name: identifier
-                label: Identifier
-                required: false
-                hint: >-
-                  The identifier of a menu item could be used as a parent menu
-                  of another menu item
-          - widget: object
-            name: main
-            label: Main menu item
-            required: false
-            hint: Main menu item for this page
-            fields:
-              - widget: string
-                name: title
-                label: Title
-                required: false
-                hint: The title of the menu item
-              - widget: number
-                name: weight
-                label: Weight
-                required: false
-                hint: Position for sorting
-                valueType: int
-              - widget: string
-                name: identifier
-                label: Identifier
-                required: false
-                hint: >-
-                  The identifier of a menu item could be used as a parent menu
-                  of another menu item
-      - widget: hidden
-        name: layout
-        label: Layout
-        required: true
-        default: post
-      - widget: markdown
-        name: body
-        label: Content
-        required: false
-        hint: Page content
-    filter:
-      field: layout
-      value: post
+                name: url
+                label: URL
+                required: true
