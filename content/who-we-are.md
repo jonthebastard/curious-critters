@@ -35,7 +35,7 @@ sections:
       teach kids about the environment was her calling. After years of learning
       about business, regulations, and other preparatory work, she started
       Curious Critters by Casai!
-    image: /assets/img/people/people-casai.jpg
+    image: /assets/post_img/people-casai.jpg
     section_id: people-casai
     title: Casai Daley
     type: section_content
@@ -49,7 +49,7 @@ sections:
       including Analytics, Technical Writing, and Programming. In his spare time
       he enjoys training for half marathons, studying calculus, writing fiction,
       and spending time with his cat. He is a published novelist as well!
-    image: /assets/img/people/people-greg.jpg
+    image: /assets/post_img/people-greg.jpg
     section_id: people-gregory
     title: Gregory Wyche
     type: section_content

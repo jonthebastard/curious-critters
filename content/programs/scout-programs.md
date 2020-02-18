@@ -3,7 +3,7 @@ title: Scout Programs
 sections:
   - bg: gray
     content: >-
-      ![](/assets/img/programs/programs-scout-01.jpg)
+      ![](/assets/post_img/programs-scout-01.jpg)
 
 
       We can do a program for your scout troop that fulfills multiple badge

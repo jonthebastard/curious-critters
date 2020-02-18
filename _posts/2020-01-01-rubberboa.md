@@ -1,14 +1,14 @@
 ---
 title: Rubber Boa
-thumb_img_path: assets/img/animals/00-rubberboa.jpg
+thumb_img_path: /assets/post_img/00-rubberboa.jpg
 excerpt: Charina bottae
 wiki_url: https://en.wikipedia.org/wiki/Rubber_boa
 layout: post
 categories: animals
 
 lightbox_imgs:
-  - assets/img/animals/squirmy-01.jpg
-  - assets/img/animals/squirmy-02.jpg
+  - lb_img: /assets/post_img/squirmy-01.jpg
+  - lb_img: /assets/post_img/squirmy-02.jpg
 
 ---
 

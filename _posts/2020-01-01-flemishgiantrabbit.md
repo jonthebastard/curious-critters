@@ -1,11 +1,14 @@
 ---
 title: Flemish Giant Rabbit
-thumb_img_path: assets/img/animals/00-flemishgiantrabbit.jpg
+thumb_img_path: /assets/post_img/00-flemishgiantrabbit.jpg
 excerpt: Oryctolagus cuniculus
 wiki_url: https://en.wikipedia.org/wiki/Flemish_Giant_rabbit
 layout: post
 categories: animals
 
+lightbox_imgs:
+  - lb_img: /assets/post_img/alejandro-01.jpg
+  - lb_img: /assets/post_img/alejandro-02.jpg
 ---
 
 **Alejandro** is a Flemish Giant Rabbit mix, weighing in at a healthy 9.5 lbs, which is smaller than

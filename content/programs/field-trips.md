@@ -3,7 +3,7 @@ title: Field Trips
 sections:
   - bg: gray
     content: >-
-      ![](/assets/img/programs/programs-field-01.jpg)
+      ![](/assets/post_img/programs-field-01.jpg)
 
 
       Take your class on a hassle-free field trip to a nearby park, beach, pond,

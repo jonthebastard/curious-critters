@@ -3,7 +3,7 @@ title: Classrooms
 sections:
   - bg: gray
     content: >-
-      ![](/assets/img/programs/programs-classroom-01.jpg)
+      ![](/assets/post_img/programs-classroom-01.jpg)
 
 
       We will bring exotic, safe animals to your school for the kids to touch!
@@ -34,7 +34,7 @@ sections:
       order to master several Disciplinary Core Ideas. 
 
 
-      ![](/assets/img/programs/programs-classroom-02.jpg)
+      ![](/assets/post_img/programs-classroom-02.jpg)
 
 
       ## Here are some examples of programs we do:

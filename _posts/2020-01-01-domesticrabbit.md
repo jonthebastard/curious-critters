@@ -5,10 +5,10 @@ thumb_img_path: /assets/post_img/00-domesticrabbit.jpg
 excerpt: Oryctolagus cuniculus domesticus
 layout: post
 lightbox_imgs:
-  - undefined: /assets/post_img/coraline-01.jpg
-  - undefined: /assets/post_img/coraline-02.jpg
-  - undefined: /assets/post_img/coraline-03.jpg
-  - undefined: /assets/post_img/coraline-04.jpg
+  - lb_img: /assets/post_img/coraline-01.jpg
+  - lb_img: /assets/post_img/coraline-02.jpg
+  - lb_img: /assets/post_img/coraline-03.jpg
+  - lb_img: /assets/post_img/coraline-04.jpg
 ---
 
 **Coraline** is a 5 lb. mixed breed domestic rabbit. We adopted her at about 4 years of age in 2012.

@@ -1,16 +1,16 @@
 ---
 title: Dumeril's Boa
-thumb_img_path: assets/img/animals/00-dumerilsboa.jpg
+thumb_img_path: /assets/post_img/00-dumerilsboa.jpg
 excerpt: Acrantophis dumerili
 wiki_url: https://en.wikipedia.org/wiki/Acrantophis_dumerili
 layout: post
 categories: animals
 
 lightbox_imgs:
-  - assets/img/animals/dottie-01.jpg
-  - assets/img/animals/dottie-02.jpg
-  - assets/img/animals/dottie-03.jpg
-  - assets/img/animals/dottie-04.jpg
+  - lb_img: /assets/post_img/dottie-01.jpg
+  - lb_img: /assets/post_img/dottie-02.jpg
+  - lb_img: /assets/post_img/dottie-03.jpg
+  - lb_img: /assets/post_img/dottie-04.jpg
 
 ---
 

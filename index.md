@@ -1,19 +1,26 @@
 ---
 title: Home
 sections:
+  - section_id: hero_title
+    title: Welcome!
+    type: section_hero
   - content: >-
       We are an educational traveling zoo based in Olympia, WA that brings
       exotic and domestic animals to various locations within the Puget Sound
       Area of Washington State to provide interactive, educational, hands-on
       programs. We specialize in Birthday Parties and Schools, but can do
       presentations for almost any group!
-    image: /assets/img/misc/cc-logo.jpg
+      <br><br>
+      In our typical presentation, each animal is brought around the room
+      one at a time, so that participants can get an up-close view! The
+      majority of the animals can also be touched by all participants, if
+      they so desire. This presentation style ensures maximum safety for
+      the participants and our animals, while allowing intimate interaction
+      between the humans and animals.
+    image: /assets/post_img/cc-logo.jpg
     section_id: hero_top
-    title: Welcome!
     type: section_hero
   - subtitle: >-
-      In our typical presentation, each animal is brought around the room one at a time, so that participants can get an up-close view! The majority of the animals can also be touched by all participants, if they so desire. This presentation style ensures maximum safety for the participants and our animals, while allowing intimate interaction between the humans and animals.
-      <br><br>
       Cities we serve include: 
       <br><br>
       Olympia, Yelm, Centralia, Eatonville 

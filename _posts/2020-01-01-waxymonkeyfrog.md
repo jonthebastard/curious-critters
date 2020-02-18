@@ -1,6 +1,6 @@
 ---
 title: Waxy Monkey Frog
-thumb_img_path: assets/img/animals/00-waxymonkeyfrog.jpg
+thumb_img_path: /assets/post_img/00-waxymonkeyfrog.jpg
 excerpt: Phyllomedusa sauvagii
 wiki_url: https://en.wikipedia.org/wiki/Phyllomedusa_sauvagii
 layout: post

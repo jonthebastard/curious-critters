@@ -3,7 +3,7 @@ title: Groups
 sections:
   - bg: gray
     content: >-
-      ![](/assets/img/programs/programs-groups-01.jpg)
+      ![](/assets/post_img/programs-groups-01.jpg)
 
 
       We specialize in community- and group-centered events, in areas such as:
@@ -24,7 +24,7 @@ sections:
       * Libraries
 
 
-      ![](/assets/img/programs/programs-groups-02.jpg)
+      ![](/assets/post_img/programs-groups-02.jpg)
 
 
       This is similar to a therapy dog program, but with many kinds of animals!
@@ -38,7 +38,7 @@ sections:
       themselves than they thought possible! ​
 
 
-      ![](/assets/img/programs/programs-groups-03.jpg)
+      ![](/assets/post_img/programs-groups-03.jpg)
 
 
       Your community members who used to have a cat, rabbit, reptile, or
@@ -53,7 +53,7 @@ sections:
       stories.  
 
 
-      ![](/assets/img/programs/programs-groups-04.jpg)
+      ![](/assets/post_img/programs-groups-04.jpg)
 
 
       Program designed for up to 30 participants for 1 hour. Program fees range

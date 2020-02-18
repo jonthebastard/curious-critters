@@ -3,7 +3,7 @@ title: Program Fees
 sections:
   - bg: gray
     content: >-
-      ![](/assets/img/programs/programs-fees-01.jpg)
+      ![](/assets/post_img/programs-fees-01.jpg)
 
 
       Program Fees help us provide our animals with food,<br>shelter, and quality care!

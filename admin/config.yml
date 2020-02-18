@@ -16,20 +16,19 @@ collections:
     extension: md
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { widget: 'string'   , name: 'title'          , label: 'Title'           , required: true   , hint: 'The title of the post.'}
-      - { widget: 'string'   , name: 'subtitle'       , label: 'Subtitle'        , required: false  , hint: 'The text shown just below the Title or the Featured Image.' }
-      - { widget: 'date'     , name: 'date'           , label: 'Date'            , required: true }
-      - { widget: 'image'    , name: 'thumb_img_path' , label: 'Thumbnail Image' , required: true  , hint: 'The image shown in the blog feed.' }
-      - { widget: 'image'    , name: 'img_path'       , label: 'Featured Image'  , required: false  , hint: 'The image shown below the title.' }
-      - { widget: 'string'   , name: 'excerpt'        , label: 'Species'         , required: false  , hint: 'The excerpt of the post displayed in the blog feed.' }
-      - { widget: 'hidden'   , name: 'layout'         , label: 'Layout'          , required: true   , default: 'post' }
-      - { widget: 'markdown' , name: 'body'           , label: 'Content'         , required: false  , hint: 'Page content' }
+      - { widget: 'string'   , name: 'title'          , label: 'Common Name'   , required: true , hint: 'The title of the post.'}
+      - { widget: 'string'   , name: 'excerpt'        , label: 'Species'       , required: true , hint: 'The excerpt of the post displayed in the blog feed.' }
+      - { widget: 'image'    , name: 'thumb_img_path' , label: 'Thumbnail'     , required: true , hint: 'The image shown in the blog feed.' }
+      - { widget: 'string'   , name: 'wiki_url'       , label: 'Wikipedia URL' , required: true , hint: 'The excerpt of the post displayed in the blog feed.' }
+      - { widget: 'markdown' , name: 'body'           , label: 'Content'       , required: true , hint: 'Page content' }
+      - { widget: 'hidden'   , name: 'layout'         , label: 'Layout'        , required: true , default: 'post' }
       - widget: list
         name: lightbox_imgs
         label: Lighbox Images
         required: false
         fields:
           - widget: image
+            name: lb_img
             label: Image
             required: false
             media_library:
@@ -57,37 +56,11 @@ collections:
             widget: object
             label: Content Section
             fields:
-              - widget: string
-                name: section_id
-                label: Element ID of this section
-                required: false
-                hint: >-
-                  The element ID can be used to link to this section from
-                  another section
-              - widget: string
-                name: title
-                label: Title
-                required: false
-                hint: The title of this section
-              - widget: markdown
-                name: content
-                label: Content
-                required: false
-                hint: The text content of the section.
-              - widget: image
-                name: image
-                label: Image
-                required: false
-                hint: The image of the section.
-              - widget: select
-                name: bg
-                label: Background
-                required: false
-                default: gray
-                hint: The background of the section.
-                options:
-                  - gray
-                  - white
+              { widget: 'string'   , name: 'title'      , label: 'Title'                      , required: true }
+              { widget: 'markdown' , name: 'content'    , label: 'Content'                    , required: true }
+              { widget: 'image'    , name: 'image'      , label: 'Image'                      , required: false  , hint: 'The image of the section.' }
+              { widget: 'select'   , name: 'bg'         , label: 'Background'                 , required: false  , default: 'gray'                                                                   , hint: 'The background of the section.' , options: ['gray'             , white'] }
+              { widget: 'hidden'   , name: 'type'       , label: 'Reference Type Name'        , required: true   , hint: 'Name of the Stackbit object model                                          , used by fields of type reference'      , default: 'section_content' }
               - widget: list
                 name: actions
                 label: Action Buttons
@@ -102,14 +75,7 @@ collections:
                     name: url
                     label: Button URL
                     required: false
-              - widget: hidden
-                name: type
-                label: Reference Type Name
-                required: true
-                hint: >-
-                  Name of the Stackbit object model, used by fields of type
-                  reference
-                default: section_content
+
           - name: section_cta
             widget: object
             label: Call to Action Section
