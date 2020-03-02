@@ -7,9 +7,12 @@ sections:
   - actions: []
     bg: null
     content: >-
-      **Owner**
-      <br >
-      <br >
+      **Casai Daley | Owner**
+
+
+      ![](/assets/post_img/people-casai.jpg)
+
+
       Casai has always loved everything about nature, and started learning about
       it at an early age from her older brother, who was a marine biologist. He
       gave her Purple Knight Land Crabs, which started a succession of numerous
@@ -35,41 +38,49 @@ sections:
       teach kids about the environment was her calling. After years of learning
       about business, regulations, and other preparatory work, she started
       Curious Critters by Casai!
-    image: /assets/post_img/people-casai.jpg
-    section_id: people-casai
-    title: Casai Daley
-    type: section_content
-  - bg: null
-    content: >-
-      **Technology Officer**
-      <br >
-      <br >
+
+
+
+
+      **Gregory Wyche |** **Technology Officer**
+
+
+      ![](/assets/post_img/people-greg.jpg)
+
+
       Greg is a longtime colleague and friend of Casai’s who also graduated from
       the University of Connecticut. He is a scientific jack of all trades,
       including Analytics, Technical Writing, and Programming. In his spare time
       he enjoys training for half marathons, studying calculus, writing fiction,
       and spending time with his cat. He is a published novelist as well!
-    image: /assets/post_img/people-greg.jpg
-    section_id: people-gregory
-    title: Gregory Wyche
+    image: ''
+    section_id: people-casai
+    title: Casai Daley
     type: section_content
   - content: >-
       Curious Critters by Casai was started in 2016 as a sole proprietorship. We
       are transitioning to a non-profit organization to better serve the needs
-      of our community. Through interactive, hands-on educational programs with live animals, we
+      of our community.
+
+
+      # Our Mission
+
+
+      Through interactive, hands-on educational programs with live animals, we
       inspire the public to learn, develop passion, and act as environmental
       stewards.
-      <br >
-      <br >
+
+
+      # Our Vision
+
+
       We envision a world in which the public are familiar with the natural
       world around them and are good stewards, engaging in sustainable
       practices. We inspire and encourage the next generations of wildlife
       stewards to learn about nature and the simple actions they can take to
       help preserve it.
-      <br >
-      <br >
     section_id: mission-values
-    title: Our Mission and Values
+    title: About Us
     type: section_hero
   - bg: null
     faqitems:
