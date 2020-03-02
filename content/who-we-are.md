@@ -1,15 +1,14 @@
 ---
-title: About
+title: About Us
 sections:
-  - section_id: who-title
-    title: Who We Are
-    type: section_hero
   - actions: []
     bg: null
     content: >-
-      ![](/assets/post_img/people-casai.jpg)
+      ![](/assets/post_img/people-casai.jpg) 
+
+
       **Casai Daley / Owner**
-      
+
 
       Casai has always loved everything about nature, and started learning about
       it at an early age from her older brother, who was a marine biologist. He
@@ -18,38 +17,38 @@ sections:
       rehabilitation.
 
 
-      At the University of Connecticut, Casai studied animal
-      behavior, worked in a neuroscience lab, and researched insects,
-      culminating in a BS in Ecology and Evolutionary Biology. After an
-      internship at the American Museum of Natural History and working in bird
-      conservation for New York State Parks, she realized that office work
-      wasn’t for her, but found an interest in Environmental Education. She
-      worked as an Educator at The Maritime Aquarium, teaching a huge variety of
-      science programs, developing curricula, designing experiments to do with
-      kids, and teaching touch tank programs with intertidal animals!
+      At the University of Connecticut, Casai studied animal behavior, worked in
+      a neuroscience lab, and researched insects, culminating in a BS in Ecology
+      and Evolutionary Biology. After an internship at the American Museum of
+      Natural History and working in bird conservation for New York State Parks,
+      she realized that office work wasn’t for her, but found an interest in
+      Environmental Education. She worked as an Educator at The Maritime
+      Aquarium, teaching a huge variety of science programs, developing
+      curricula, designing experiments to do with kids, and teaching touch tank
+      programs with intertidal animals!
 
 
-      She loved
-      it, but wanted to do educational programs with a larger variety of live
-      animals, especially ones which were trainable. After working for a small
-      traveling zoo as a keeper for a while, she realized gaining more
+      She loved it, but wanted to do educational programs with a larger variety
+      of live animals, especially ones which were trainable. After working for a
+      small traveling zoo as a keeper for a while, she realized gaining more
       experience first would help her be more successful.
 
 
-      To maximize her
-      learning, she did a series of internships at various zoos in California,
-      caring for animals, training animals, and teaching. This led to working
-      for the San Francisco Zoo teaching traveling educational programs with a
-      large variety of exotic animals, and loving it! From those vast and varied
-      experiences, she knew that creating her own traveling zoo in order to
-      teach kids about the environment was her calling. After years of learning
-      about business, regulations, and other preparatory work, she started
-      Curious Critters by Casai!
+      To maximize her learning, she did a series of internships at various zoos
+      in California, caring for animals, training animals, and teaching. This
+      led to working for the San Francisco Zoo teaching traveling educational
+      programs with a large variety of exotic animals, and loving it! From those
+      vast and varied experiences, she knew that creating her own traveling zoo
+      in order to teach kids about the environment was her calling. After years
+      of learning about business, regulations, and other preparatory work, she
+      started Curious Critters by Casai!
 
 
 
 
       ![](/assets/post_img/people-greg.jpg)
+
+
       **Gregory Wyche / Technology Officer**
 
 
@@ -61,12 +60,13 @@ sections:
     image: ''
     section_id: people-block
     type: section_content
+    title: Who We Are
   - content: >-
       Curious Critters by Casai was started in 2016 as a sole proprietorship. We
       are transitioning to a non-profit organization to better serve the needs
-      of our community. Through interactive, hands-on educational programs with live animals, we
-      inspire the public to learn, develop passion, and act as environmental
-      stewards.
+      of our community. Through interactive, hands-on educational programs with
+      live animals, we inspire the public to learn, develop passion, and act as
+      environmental stewards.
 
 
       We envision a world in which the public are familiar with the natural
