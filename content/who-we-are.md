@@ -7,7 +7,7 @@ sections:
       ![](/assets/post_img/people-casai.jpg)
 
 
-      **Casai Daley / Owner**
+      # **Casai Daley / Owner**
 
 
       Casai has always loved everything about nature, and started learning about
@@ -17,6 +17,7 @@ sections:
       rehabilitation.
 
 
+      <br>
 
 
       At the University of Connecticut, Casai studied animal behavior, worked in
@@ -30,6 +31,7 @@ sections:
       programs with intertidal animals!
 
 
+      <br>
 
 
       She loved it, but wanted to do educational programs with a larger variety
@@ -38,6 +40,7 @@ sections:
       experience first would help her be more successful.
 
 
+      <br>
 
 
       To maximize her learning, she did a series of internships at various zoos
