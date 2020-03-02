@@ -8,15 +8,15 @@ $font: (
 
 // Palette.
 $palette: (
-  primary:           #554b6c,
-  secondary:           darken(#554b6c, 15%),
-  meta:                lighten(#554b6c, 20%),
-  border:              lighten(#554b6c, 58%),
-  bg:                #b995ee,
+  primary:           #fff,
+  secondary:           darken(#03372e, 15%),
+  meta:                lighten(#03372e, 20%),
+  border:              lighten(#03372e, 58%),
+  bg:                #233d38,
   accent:            #0072ff,
   accent-alt:        #00c6ff,
-  accent-purple:     #503a73,
-  accent-purple-alt: #8062ad,
+  accent-purple:     #80291a,
+  accent-purple-alt: #03372e,
   accent-green:      #438945,
   accent-green-alt:  #73bb75,
   accent-orange:     #fe8c00,
@@ -36,3 +36,4 @@ $palette: (
 @import "imports/palettes";
 @import "imports/banner";
 
+@import "imports/custom";

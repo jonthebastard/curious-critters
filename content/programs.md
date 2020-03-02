@@ -4,7 +4,8 @@ sections:
   - section_id: prog-title
     title: Educational Programs
     type: section_hero
-  - actions:
+  - section_id: programs-top
+    actions:
       - label: Birthdays
         url: content/programs/birthdays
       - label: Events
@@ -34,7 +35,6 @@ sections:
       animals on display!
       <br><br>
     image: /assets/post_img/programs-home-01.jpg
-    section_id: programs-top
     type: section_content
 layout: landing
 ---

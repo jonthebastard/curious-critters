@@ -27,12 +27,15 @@
 
 .block-buttons {
   margin-bottom: 0.83333rem;
+  display:flex;
+  flex-flow: row wrap;
+  justify-content: center;
   text-align: left;
 
   .button {
     margin: 0 7px 0.83333rem;
-    display:flex;
     justify-content:space-around;
+    text-align: center;
   }
 }
 
@@ -569,22 +572,4 @@
   &.bg-gray + &.bg-gray {
     padding-top: 0;
   }
-}
-
-#people-block {
-  color: #fff;
-  background: url(/assets/post_img/about_bg.jpg) no-repeat;
-  background-size: cover;
-}
-
-#people-block img {
-    height: auto;
-    max-width: 100%;
-    float: left;
-    padding: 1.66667rem;
-  }
-
-#statements {
-  background: url(/assets/post_img/about_mission.jpg) no-repeat;
-  background-size: cover;
 }

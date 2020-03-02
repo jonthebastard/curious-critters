@@ -23,17 +23,24 @@
     background: _palette(accent-purple);
     border-color: _palette(accent-purple);
     color: #fff;
-  }
-
-  .button.secondary {
-    background: transparent;
-    color: _palette(accent-purple);
 
     &:hover,
     &:focus,
     &:active {
-      background: _palette(accent-purple);
-      color: #fff;
+      background: #f1806b;
+      color: #303;
+    }
+  }
+
+  .button.secondary {
+    background: _palette(accent-purple);
+    color: #fff;
+
+    &:hover,
+    &:focus,
+    &:active {
+      background: #f1806b;
+      color: #303;
     }
   }
 

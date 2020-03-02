@@ -4,48 +4,33 @@ sections:
   - actions: []
     bg: null
     content: >-
-      ![](/assets/post_img/people-casai.jpg)
-
-
-      ## **Casai Daley / Owner**
-
-
       <br>
 
+      ![](/assets/post_img/people-casai.jpg)
 
+      ## **Casai Daley / Owner**
+      
       Casai has always loved everything about nature, and started learning about
       it at an early age from her older brother, who was a marine biologist. He
       gave her Purple Knight Land Crabs, which started a succession of numerous
       pets. Since childhood, she has rescued animals in need of homes or
       rehabilitation.
-
-
-      <br>
-
-
+      <br><br>
       At the University of Connecticut, Casai studied animal behavior, worked in
       a neuroscience lab, and researched insects, culminating in a BS in Ecology
       and Evolutionary Biology. After an internship at the American Museum of
       Natural History and working in bird conservation for New York State Parks,
       she realized that office work wasn’t for her, but found an interest in
-      Environmental Education. She worked as an Educator at The Maritime
+      Environmental Education.<br><br>
+      She worked as an Educator at The Maritime
       Aquarium, teaching a huge variety of science programs, developing
       curricula, designing experiments to do with kids, and teaching touch tank
-      programs with intertidal animals!
-
-
-      <br>
-
-
+      programs with intertidal animals! 
       She loved it, but wanted to do educational programs with a larger variety
       of live animals, especially ones which were trainable. After working for a
       small traveling zoo as a keeper for a while, she realized gaining more
       experience first would help her be more successful.
-
-
-      <br>
-
-
+      <br><br>
       To maximize her learning, she did a series of internships at various zoos
       in California, caring for animals, training animals, and teaching. This
       led to working for the San Francisco Zoo teaching traveling educational
@@ -54,13 +39,12 @@ sections:
       in order to teach kids about the environment was her calling. After years
       of learning about business, regulations, and other preparatory work, she
       started Curious Critters by Casai!
-
+      <br><br>
+      <br>
 
       ![](/assets/post_img/people-greg.jpg)
-
-
-      **Gregory Wyche / Technology Officer**
-
+      
+      ## **Gregory Wyche / Technology Officer**
 
       Greg is a longtime colleague and friend of Casai’s who also graduated from
       the University of Connecticut. He is a scientific jack of all trades,
@@ -77,13 +61,13 @@ sections:
       of our community. Through interactive, hands-on educational programs with
       live animals, we inspire the public to learn, develop passion, and act as
       environmental stewards.
-
-
+      <br><br>
       We envision a world in which the public are familiar with the natural
       world around them and are good stewards, engaging in sustainable
       practices. We inspire and encourage the next generations of wildlife
       stewards to learn about nature and the simple actions they can take to
       help preserve it.
+      <br><br>
     section_id: mission-values
     title: Our History and Mission
     type: section_hero
