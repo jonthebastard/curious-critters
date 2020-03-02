@@ -4,10 +4,12 @@ sections:
   - actions: []
     bg: null
     content: >-
-      ![](/assets/post_img/people-casai.jpg) 
+      ![](/assets/post_img/people-casai.jpg)
 
 
       **Casai Daley / Owner**
+
+
 
 
       Casai has always loved everything about nature, and started learning about
@@ -15,6 +17,8 @@ sections:
       gave her Purple Knight Land Crabs, which started a succession of numerous
       pets. Since childhood, she has rescued animals in need of homes or
       rehabilitation.
+
+
 
 
       At the University of Connecticut, Casai studied animal behavior, worked in
@@ -28,10 +32,14 @@ sections:
       programs with intertidal animals!
 
 
+
+
       She loved it, but wanted to do educational programs with a larger variety
       of live animals, especially ones which were trainable. After working for a
       small traveling zoo as a keeper for a while, she realized gaining more
       experience first would help her be more successful.
+
+
 
 
       To maximize her learning, she did a series of internships at various zoos
@@ -44,12 +52,12 @@ sections:
       started Curious Critters by Casai!
 
 
-
-
       ![](/assets/post_img/people-greg.jpg)
 
 
       **Gregory Wyche / Technology Officer**
+
+
 
 
       Greg is a longtime colleague and friend of Casai’s who also graduated from
