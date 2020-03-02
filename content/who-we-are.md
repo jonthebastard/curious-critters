@@ -59,7 +59,7 @@ sections:
       he enjoys training for half marathons, studying calculus, writing fiction,
       and spending time with his cat. He is a published novelist as well!
     image: ''
-    section_id: people-casai
+    section_id: people-block
     type: section_content
   - content: >-
       Curious Critters by Casai was started in 2016 as a sole proprietorship. We
