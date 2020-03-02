@@ -45,6 +45,11 @@ sections:
     title: Our Animals
     section_id: animals_posts
     type: section_posts
+  - section_id: home_yelp
+    title: Testimonials
+    type: section_content
+    content: >-
+      <span class="yelp-review" data-review-id="-EwxKrpBWvk4-a9Z-YKKFg" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=rt0SiixxBLHRXBbxPkaslA" rel="nofollow noopener">Violet L.</a>'s <a href="https://www.yelp.com/biz/curious-critters-by-casai-olympia?hrid=-EwxKrpBWvk4-a9Z-YKKFg" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/iW6sC5T7j5Kdag8nUpK5GQ" rel="nofollow noopener">Curious Critters by Casai</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script async="async" src="https://www.yelp.com/embed/widgets.js" type="text/javascript"></script></span>
   - actions:
       - label: Book A Program Now!
         url: /content/contact
