@@ -8,8 +8,8 @@ sections:
     bg: null
     content: >-
       **Owner**
-
-
+      <br >
+      <br >
       Casai has always loved everything about nature, and started learning about
       it at an early age from her older brother, who was a marine biologist. He
       gave her Purple Knight Land Crabs, which started a succession of numerous
@@ -42,8 +42,8 @@ sections:
   - bg: null
     content: >-
       **Technology Officer**
-
-
+      <br >
+      <br >
       Greg is a longtime colleague and friend of Casai’s who also graduated from
       the University of Connecticut. He is a scientific jack of all trades,
       including Analytics, Technical Writing, and Programming. In his spare time
@@ -56,27 +56,20 @@ sections:
   - content: >-
       Curious Critters by Casai was started in 2016 as a sole proprietorship. We
       are transitioning to a non-profit organization to better serve the needs
-      of our community.
-
-
-      # Our Mission
-
-
-      Through interactive, hands-on educational programs with live animals, we
+      of our community. Through interactive, hands-on educational programs with live animals, we
       inspire the public to learn, develop passion, and act as environmental
       stewards.
-
-
-      # Our Vision
-
-
+      <br >
+      <br >
       We envision a world in which the public are familiar with the natural
       world around them and are good stewards, engaging in sustainable
       practices. We inspire and encourage the next generations of wildlife
       stewards to learn about nature and the simple actions they can take to
       help preserve it.
+      <br >
+      <br >
     section_id: mission-values
-    title: About Us
+    title: Our Mission and Values
     type: section_hero
   - bg: null
     faqitems:

@@ -56,11 +56,11 @@ collections:
             widget: object
             label: Content Section
             fields:
-              { widget: 'string'   , name: 'title'      , label: 'Title'                      , required: true }
-              { widget: 'markdown' , name: 'content'    , label: 'Content'                    , required: true }
-              { widget: 'image'    , name: 'image'      , label: 'Image'                      , required: false  , hint: 'The image of the section.' }
-              { widget: 'select'   , name: 'bg'         , label: 'Background'                 , required: false  , default: 'gray'                                                                   , hint: 'The background of the section.' , options: ['gray'             , white'] }
-              { widget: 'hidden'   , name: 'type'       , label: 'Reference Type Name'        , required: true   , hint: 'Name of the Stackbit object model                                          , used by fields of type reference'      , default: 'section_content' }
+              - { widget: 'string'   , name: 'title'  , label: 'Title', required: true }
+              - { widget: 'markdown' , name: 'content', label: 'Content', required: true }
+              - { widget: 'image'    , name: 'image'  , label: 'Image', required: false, hint: 'The image of the section.' }
+              - { widget: 'select'   , name: 'bg'     , label: 'Background', required: false, default: 'gray', hint: 'The background of the section.', options: ['gray', white'] }
+              - { widget: 'hidden'   , name: 'type'   , label: 'Reference Type Name', required: true, hint: 'Name of the Stackbit object model, used by fields of type reference', default: 'section_content' }
               - widget: list
                 name: actions
                 label: Action Buttons

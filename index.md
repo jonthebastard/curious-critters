@@ -17,7 +17,7 @@ sections:
       they so desire. This presentation style ensures maximum safety for
       the participants and our animals, while allowing intimate interaction
       between the humans and animals.
-    image: /assets/post_img/cc-logo.jpg
+    image: /assets/post_img/cc-logo.png
     section_id: hero_top
     type: section_hero
   - subtitle: >-

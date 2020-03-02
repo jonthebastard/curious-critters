@@ -3,20 +3,20 @@
 
 // Font.
 $font: (
-  primary: ("Nunito Sans",sans-serif)
+  primary: ("PT Sans",sans-serif)
 );
 
 // Palette.
 $palette: (
-  primary:           #4c5267,
-  secondary:           darken(#4c5267, 15%),
-  meta:                lighten(#4c5267, 20%),
-  border:              lighten(#4c5267, 58%),
-  bg:                #f7f9fb,
+  primary:           #554b6c,
+  secondary:           darken(#554b6c, 15%),
+  meta:                lighten(#554b6c, 20%),
+  border:              lighten(#554b6c, 58%),
+  bg:                #b995ee,
   accent:            #0072ff,
   accent-alt:        #00c6ff,
-  accent-purple:     #b5267b,
-  accent-purple-alt: #632695,
+  accent-purple:     #503a73,
+  accent-purple-alt: #8062ad,
   accent-green:      #438945,
   accent-green-alt:  #73bb75,
   accent-orange:     #fe8c00,
