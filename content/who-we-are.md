@@ -7,17 +7,19 @@ sections:
       ![](/assets/post_img/people-casai.jpg)
 
 
-      **Casai Daley / Owner**\
+      **Casai Daley / Owner**
 
-      \
+
+
 
       Casai has always loved everything about nature, and started learning about
       it at an early age from her older brother, who was a marine biologist. He
       gave her Purple Knight Land Crabs, which started a succession of numerous
       pets. Since childhood, she has rescued animals in need of homes or
-      rehabilitation.\
+      rehabilitation.
 
-      \
+
+
 
       At the University of Connecticut, Casai studied animal behavior, worked in
       a neuroscience lab, and researched insects, culminating in a BS in Ecology
@@ -27,16 +29,18 @@ sections:
       Environmental Education. She worked as an Educator at The Maritime
       Aquarium, teaching a huge variety of science programs, developing
       curricula, designing experiments to do with kids, and teaching touch tank
-      programs with intertidal animals!\
+      programs with intertidal animals!
 
-      \
+
+
 
       She loved it, but wanted to do educational programs with a larger variety
       of live animals, especially ones which were trainable. After working for a
       small traveling zoo as a keeper for a while, she realized gaining more
-      experience first would help her be more successful.\
+      experience first would help her be more successful.
 
-      \
+
+
 
       To maximize her learning, she did a series of internships at various zoos
       in California, caring for animals, training animals, and teaching. This
