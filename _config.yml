@@ -11,7 +11,7 @@ header:
         url: /content/contact
   title: Curious Critters by Casai
 footer:
-  content: '&copy; Curious Critters by Casai'
+  content: 'Curious Critters by Casai'
   has_nav: false
   has_social: true
   has_subscribe: false

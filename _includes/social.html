@@ -1,7 +1,7 @@
 <ul class="social-links">
   {% for link in site.data.social.links %}
   <li>
-    <a href="{{ link.url }}" target="_blank" rel="noopener"><i class="fab {{ link.fa }} fa-2x"></i>{{ link.title }}</a>
+    <a href="{{ link.url }}" target="_blank" rel="noopener"><i class="fab {{ link.fa }} fa-2x" style=" vertical-align: middle;"></i> {{ link.title }}</a>
   </li>
   {% endfor %}
 </ul><!-- .social-links -->
