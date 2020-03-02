@@ -7,7 +7,10 @@ sections:
       ![](/assets/post_img/people-casai.jpg)
 
 
-      # **Casai Daley / Owner**
+      ## **Casai Daley / Owner**
+
+
+      <br>
 
 
       Casai has always loved everything about nature, and started learning about
