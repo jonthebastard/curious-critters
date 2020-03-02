@@ -189,7 +189,7 @@ th {
 
 /* Form fields */
 label {
-  color: _palette(secondary);
+  color: _palette(primary);
   font-weight: bold;
 }
 
@@ -257,8 +257,8 @@ a.button {
   height: 2.75em;
   line-height: 1.5;
   padding: 0.5em 30px;
-  -webkit-transition: opacity .15s ease-in-out;
-  transition: opacity .15s ease-in-out;
+  -webkit-transition: box-shadow .2s ease-in-out, background-color .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, background-color .2s ease-in-out, color .2s ease-in-out;
 
   &:hover,
   &:focus,
@@ -287,8 +287,8 @@ a.button.large {
 .button.secondary {
   background: transparent;
   color: _palette(accent);
-  -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
-  transition: background-color .2s ease-in-out, color .2s ease-in-out;
+  -webkit-transition: box-shadow .2s ease-in-out, background-color .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, background-color .2s ease-in-out, color .2s ease-in-out;
 
   &:hover,
   &:focus,
@@ -304,8 +304,8 @@ a.button.large {
   border-color: transparent;
   box-shadow: 0 20px 30px 0 rgba(_palette(accent-purple-alt),.2);
   color: _palette(primary);
-  -webkit-transition: box-shadow .2s ease-in-out;
-  transition: box-shadow .2s ease-in-out;
+  -webkit-transition: box-shadow .2s ease-in-out, background-color .2s ease-in-out, color .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out, background-color .2s ease-in-out, color .2s ease-in-out;
 
   &:hover,
   &:focus,

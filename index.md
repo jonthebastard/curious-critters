@@ -40,7 +40,7 @@ sections:
     section_id: hero_next
     type: section_cta
   - actions:
-      - label: Click Here for More of Our Animals!
+      - label: See More of the Critters!
         url: /content/animals
     title: Our Animals
     section_id: animals_posts

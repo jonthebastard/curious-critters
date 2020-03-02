@@ -86,7 +86,7 @@
 }
 
 .thumb-text {
-  background-color: #b5267b;
+  background-color: _palette(secondary);
   color: white;
   font-size: 16px;
   padding: 10px;

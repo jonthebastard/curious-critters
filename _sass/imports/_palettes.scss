@@ -33,7 +33,8 @@
   }
 
   .button.secondary {
-    background: _palette(accent-purple);
+    background: _palette(secondary);
+    border-color: _palette(accent-purple);
     color: #fff;
 
     &:hover,
@@ -45,9 +46,9 @@
   }
 
   .button.white {
-    background: #f1806b;
-    border-color: transparent;
-    color: #303;
+    background: _palette(accent-purple);
+    border-color: _palette(accent-purple);
+    color: #fff;
   }
 
   .underline {
