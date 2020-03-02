@@ -14,23 +14,20 @@ footer:
   content: '&copy; Curious Critters by Casai'
   has_nav: false
   has_social: true
-  has_subscribe: true
+  has_subscribe: false
   links:
     - new_window: true
       text: Made with Stackbit
       url: 'https://www.stackbit.com'
   logo_img: ''
-  nav_title: Company
-  social_title: Community
-  subscribe_content: Stay up to date with our news and goings-on!
-  subscribe_title: Subscribe
-  tagline: ''
+  social_title: Follow Us on Social Media!
 sass:
   indentWidth: 4
   precision: 10
   style: nested
 plugins:
   - jekyll-menus
+  - jekyll-font-awesome-sass
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -45,3 +42,5 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+font-awesome:
+  assets: true

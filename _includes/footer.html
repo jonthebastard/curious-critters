@@ -3,26 +3,7 @@
     <div class="inner">
       <div class="footer-widgets">
 
-        <div class="widget footer-branding">
-          {% assign logo_img_is_not_empty = site.footer.logo_img | is_not_empty %}
-          {% if logo_img_is_not_empty %}
-          <p class="site-logo">
-            <a href='{{ '/' | relative_url }}'><img src="{{ site.footer.logo_img | relative_url }}" alt="Logo" /></a>
-          </p>
-          {% else %}
-          <p class="site-title">
-            <a href='{{ '/' | relative_url }}'>{{ site.header.title }}</a>
-          </p>
-          {% endif %}
-          {% assign tagline_is_not_empty = site.footer.tagline | is_not_empty %}
-          {% if tagline_is_not_empty %}
-          <p class="site-description">
-            {{ site.footer.tagline }}
-          </p>
-          {% endif %}
-        </div><!-- .widget -->
-
-        {% if site.menus.secondary and site.footer.has_nav or site.footer.has_social %}
+        {% if site.footer.has_social %}
         <nav class="widget footer-navigation">
           <div class="footer-nav-inside">
             {% if site.menus.secondary and site.footer.has_nav %}
