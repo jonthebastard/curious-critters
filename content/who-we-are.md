@@ -10,8 +10,6 @@ sections:
       **Casai Daley / Owner**
 
 
-
-
       Casai has always loved everything about nature, and started learning about
       it at an early age from her older brother, who was a marine biologist. He
       gave her Purple Knight Land Crabs, which started a succession of numerous
