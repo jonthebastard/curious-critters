@@ -47,7 +47,7 @@
 .widget-title {
   color: _palette(border);
   font-size: 1rem;
-  margin: 0 0 1.33333rem;
+  
 }
 
 .footer-branding {
@@ -70,9 +70,7 @@
 
 .secondary-nav,
 .social-nav {
-  -webkit-flex: 0 0 100%;
-  -ms-flex: 0 0 100%;
-  flex: 0 0 100%;
+  width: 100%;
   text-align: center;
   padding-top: 0.83333rem;
   padding-left: 0.83333rem;
@@ -87,7 +85,6 @@
   }
 
   li {
-    margin: 1 1;
     padding-left: 1rem;
     padding-right: 1rem;
   }
@@ -114,10 +111,17 @@
 
   .footer-navigation,
   .footer-subscribe {
-    -webkit-flex: 0 0 50%;
-    -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
+    -webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
   }
+
+  .social-nav {
+    ul {
+      display: block;
+    }
+  }
+
 }
 
 @media only screen and (max-width: 600px) {
