@@ -1,11 +1,9 @@
 ---
-title: Nigerian Dwarf Goat
+title: Juliana Pig
+excerpt: Sus scrofa
 thumb_img_path: /assets/post_img/00-nigeriandwarfgoat.jpg
-excerpt: Aegagrus hircus
-wiki_url: https://www.marylandzoo.org/animal/nigerian-dwarf-goat/
+wiki_url: http://www.petpigeducation.com/pig-breeds.html
 layout: post
 categories: animals
-
 ---
-
-More info about our **Nigerian Dwarf Goat** coming soon!
+More info about our **Juliana Pig** coming soon!
